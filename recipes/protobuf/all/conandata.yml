@@ -11,6 +11,9 @@ sources:
   3.13.0:
     sha256: 9b4ee22c250fe31b16f1a24d61467e40780a3fbb9b91c3b65be2a376ed913a1a
     url: https://github.com/protocolbuffers/protobuf/archive/v3.13.0.tar.gz
+  "3.14.0":
+    url: "https://github.com/protocolbuffers/protobuf/archive/v3.14.0.tar.gz"
+    sha256: "d0f5f605d0d656007ce6c8b5a82df3037e1d8fe8b121ed42e536f569dec16113"
 patches:
   3.12.4:
     - patch_file: "patches/upstream-pr-7761-cmake-regex-fix.patch"
@@ -18,5 +21,8 @@ patches:
     - patch_file: "patches/upstream-issue-7567-no-export-template-define.patch"
       base_path: "source_subfolder"
   3.13.0:
+    - patch_file: "patches/upstream-pr-7761-cmake-regex-fix.patch"
+      base_path: "source_subfolder"
+  "3.14.0":
     - patch_file: "patches/upstream-pr-7761-cmake-regex-fix.patch"
       base_path: "source_subfolder"
