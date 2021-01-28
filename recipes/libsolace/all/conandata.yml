@@ -9,3 +9,6 @@ sources:
     sha256: 5a91cc000d0ef5c51fb58197a8e3ef003fa191926f4f2511b7e8940648f007ce
     url: https://github.com/abbyssoul/libsolace/archive/v0.3.9.zip
 
+  "0.4.0":
+    url: "https://github.com/abbyssoul/libsolace/archive/v0.4.0.tar.gz"
+    sha256: "5687559ea5304ab90a672bcb32d4976ce748bf934df10c02daacac3c1537932f"
