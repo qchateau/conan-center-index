@@ -1,4 +1,7 @@
 sources:
+  "0.18.3":
+    url: "https://github.com/tree-sitter/tree-sitter/archive/v0.18.3.tar.gz"
+    sha256: "0803a19426aa98a06fd7fae817b72e7c3ce8684f3383870e2bd087a35d2b5612"
   "0.17.3":
     url: https://github.com/tree-sitter/tree-sitter/archive/0.17.3.tar.gz
     sha256: a897e5c9a7ccb74271d9b20d59121d2d2e9de8b896c4d1cfaac0f8104c1ef9f8
