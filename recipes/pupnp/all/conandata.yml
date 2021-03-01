@@ -1,4 +1,7 @@
 sources:
+  "1.14.1":
+    url: "https://github.com/pupnp/pupnp/archive/release-1.14.1.tar.gz"
+    sha256: "836e42855e9e1763237d766a9d5d29b3cd4e218337b59100e31895c5c8593b47"
   "1.12.1":
     url: https://github.com/pupnp/pupnp/archive/release-1.12.1.tar.gz
     sha256: b4fc8f8e78d5d3259f321aecab1bc9d9ef7b9cea816c4b4d850b264120773290
