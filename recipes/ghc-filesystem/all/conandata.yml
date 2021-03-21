@@ -1,4 +1,7 @@
 sources:
+  "1.5.2":
+    url: "https://github.com/gulrak/filesystem/archive/v1.5.2.tar.gz"
+    sha256: "b2f5a45194914ee34c9d78675d474880518b6b03eca08b0155258d0ebf89a72e"
   "1.4.0":
     url: "https://github.com/gulrak/filesystem/archive/v1.4.0.tar.gz"
     sha256: "332fb8afda06671090c755c623da15889b66cfdedcf6f343d38a28a930ea5304"
