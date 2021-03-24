@@ -20,3 +20,6 @@ sources:
   "11.0.9":
     url: "https://github.com/machinezone/IXWebSocket/archive/v11.0.9.tar.gz"
     sha256: "bb355b54add3de14fa645ac9c16c49d1cd8324fdeea959a64071ca9aec64da7e"
+  "11.2.2":
+    url: "https://github.com/machinezone/IXWebSocket/archive/v11.2.2.tar.gz"
+    sha256: "6ab3158c6da4c3a301dbf70c7d2339dd571f53794ce0c5e8efdc75cc8d87b487"
