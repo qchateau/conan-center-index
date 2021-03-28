@@ -1,4 +1,7 @@
 sources:
+  "2.1.1":
+    url: "https://github.com/nfrechette/rtm/archive/v2.1.1.tar.gz"
+    sha256: "2e2babab277dd56dd7aa574168a8c2510951859437db0d25e6c7bc08ab57a3e5"
   "2.0.0":
     url: "https://github.com/nfrechette/rtm/archive/v2.0.0.tar.gz"
     sha256: "29155da085dde32d14528927d05aa231d966a0e37ff0b402e7333f7159c08bd0"
