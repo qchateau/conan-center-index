@@ -1,4 +1,7 @@
 sources:
+  "2.0.9":
+    url: "https://github.com/eclipse/mosquitto/archive/v2.0.9.tar.gz"
+    sha256: "daf17a8ec8e55ccfba276e5177c2cca1d2277c3e51c5e6733a92048165729ae9"
   "2.0.7":
     url: "https://github.com/eclipse/mosquitto/archive/v2.0.7.tar.gz"
     sha256: "bd3387259c0db991eb83b13b90fb4c22486cbcad801f826f805066a32ae244f3"
