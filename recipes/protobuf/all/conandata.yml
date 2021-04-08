@@ -17,6 +17,9 @@ sources:
   "3.15.5":
     sha256: bc3dbf1f09dba1b2eb3f2f70352ee97b9049066c9040ce0c9b67fb3294e91e4b
     url: https://github.com/protocolbuffers/protobuf/archive/v3.15.5.tar.gz
+  "3.15.7":
+    url: "https://github.com/protocolbuffers/protobuf/archive/v3.15.7.tar.gz"
+    sha256: "efdd6b932a2c0a88a90c4c80f88e4b2e1bf031e7514dbb5a5db5d0bf4f295504"
 patches:
   "3.12.4":
     - patch_file: "patches/upstream-pr-7761-cmake-regex-fix.patch"
@@ -35,5 +38,8 @@ patches:
     - patch_file: "patches/upstream-pr-8301-bundle-destination.patch"
       base_path: "source_subfolder"
   "3.15.5":
+    - patch_file: "patches/upstream-pr-8301-bundle-destination.patch"
+      base_path: "source_subfolder"
+  "3.15.7":
     - patch_file: "patches/upstream-pr-8301-bundle-destination.patch"
       base_path: "source_subfolder"
