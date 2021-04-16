@@ -1,8 +1,14 @@
 sources:
+  "0.11":
+    url: "https://github.com/charles-lunarg/vk-bootstrap/archive/v0.11.tar.gz"
+    sha256: "bf10fe9b955462a416ad9d6e2bb3b86bd2dd525cb741dace882a7b1bef2c4cae"
   "0.2":
     url: "https://github.com/charles-lunarg/vk-bootstrap/archive/v0.2.tar.gz"
     sha256: "45afc9c2c90309f768786c8014913627e6f1cb4db20449a65b98283b58918483"
 patches:
+  "0.11":
+    - patch_file: "patches/fix-cmake.patch"
+      base_path: "source_subfolder"
   "0.2":
     - patch_file: "patches/fix-cmake.patch"
       base_path: "source_subfolder"
