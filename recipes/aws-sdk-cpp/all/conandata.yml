@@ -1,8 +1,20 @@
 sources:
+  "1.8.186":
+    url: "https://github.com/aws/aws-sdk-cpp/archive/1.8.186.tar.gz"
+    sha256: "749322a8be4594472512df8a21d9338d7181c643a00e08a0ff12f07e831e3346"
   "1.8.130":
     url: "https://github.com/aws/aws-sdk-cpp/archive/1.8.130.tar.gz"
     sha256: "5dd09baa28d3f6f4fb03fbba1a4269724d79bcca3d47752cd3e15caf97276bda"
 patches:
+  "1.8.186":
+    - base_path: source_subfolder
+      patch_file: patches/0001-disable-sort-links.patch
+    - base_path: source_subfolder
+      patch_file: patches/0002-force-archive-directory-to-library-directory.patch
+    - base_path: source_subfolder
+      patch_file: patches/0003-disable-cmake-install-rpath-use-link-path.patch
+    - base_path: source_subfolder
+      patch_file: patches/0004-improve-pulseaudio-detection.patch
   "1.8.130":
     - base_path: source_subfolder
       patch_file: patches/0001-disable-sort-links.patch
