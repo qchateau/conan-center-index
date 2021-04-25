@@ -1,4 +1,7 @@
 sources:
+  "1.2.6":
+    url: "https://github.com/drichardson/huffman/archive/v1.2.6.tar.gz"
+    sha256: "78b987d4870825f3e32fa8e5c4d4479b1fad0e071a8ebe46da0f8c9c8193bd3b"
   "1.2.2":
     url: "https://github.com/drichardson/huffman/archive/refs/tags/v1.2.2.zip"
     sha256: "7968728c4a0e2705575e9f03e0252cb5195919756d3a64343255f518548cb533"
