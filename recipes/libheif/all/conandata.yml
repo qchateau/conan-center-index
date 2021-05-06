@@ -5,10 +5,16 @@ sources:
   "1.11.0":
     sha256: c550938f56ff6dac83702251a143f87cb3a6c71a50d8723955290832d9960913
     url: https://github.com/strukturag/libheif/releases/download/v1.11.0/libheif-1.11.0.tar.gz
+  "1.12.0":
+    url: "https://github.com/strukturag/libheif/archive/v1.12.0.tar.gz"
+    sha256: "086145b0d990182a033b0011caadb1b642da84f39ab83aa66d005610650b3c65"
 patches:
   "1.9.1":
     - base_path: "source_subfolder"
       patch_file: "patches/0001-cmake.patch"
   "1.11.0":
+    - base_path: "source_subfolder"
+      patch_file: "patches/0001-cmake_1.11.0.patch"
+  "1.12.0":
     - base_path: "source_subfolder"
       patch_file: "patches/0001-cmake_1.11.0.patch"
