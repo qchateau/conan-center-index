@@ -1,4 +1,7 @@
 sources:
+  "1.33.0":
+    url: "https://github.com/real-logic/aeron/archive/1.33.0.tar.gz"
+    sha256: "c0fa536186cfc28b3ff4cf36dc8e1867a246a311881970baf1a63949e2b1f89d"
   "1.31.2":
     url: https://github.com/real-logic/aeron/archive/refs/tags/1.31.2.tar.gz
     sha256: "3edcf01415298aa053cd9e9637405cb8f7b940545bb52a563592dab2b35389ea"
