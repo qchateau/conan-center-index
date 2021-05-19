@@ -1,4 +1,7 @@
 sources:
+  "2.0.4":
+    url: "https://github.com/TinkoffCreditSystems/uconfig/archive/v2.0.4.tar.gz"
+    sha256: "8e418c8070d50cec5e2f1b8813832ed88ef9aadd1aafbf7fed4a95d46720a4b6"
   "2.0.3":
     url: "https://github.com/TinkoffCreditSystems/uconfig/archive/refs/tags/v2.0.3.tar.gz"
     sha256: "a1f6278ebd6c0c7ba391651ab6f0aceeb9cb77dc6936d45dc0e6fee3f27dfcbf"
