@@ -8,3 +8,6 @@ sources:
   "1.3.2":
     url: "https://github.com/nanomsg/nng/archive/v1.3.2.tar.gz"
     sha256: "0f8f2ede7f5ea2018c7fa615c76f48662eb06d39c71c3339f8ff38da44470855"
+  "1.5.0":
+    url: "https://github.com/nanomsg/nng/archive/v1.5.0.tar.gz"
+    sha256: "b6e65d4d59fbc04fe7b26c914f0e63215b6a299ce5bd2dfcd99d9ed0c6dadcae"
