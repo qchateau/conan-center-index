@@ -1,3 +1,5 @@
 versions:
+  "20002":
+    folder: all
   "2.01.03":
     folder: all
