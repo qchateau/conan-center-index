@@ -1,4 +1,7 @@
 sources:
+  "1.76.0":
+    url: "https://github.com/boostorg/hana/archive/boost-1.76.0.tar.gz"
+    sha256: "e2c3388eb42d97b92875c602dbc12b45b683927d4208c2d59373662807511ae0"
   "boost-1.74.0":
     url: "https://github.com/boostorg/hana/archive/boost-1.74.0.tar.gz"
     sha256: "d50b366aca035b7fbeaf1cadc3bad0edd9d68d98b297dcf9473bbfb0f52408b8"
