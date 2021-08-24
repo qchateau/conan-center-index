@@ -3,3 +3,5 @@ versions:
     folder: 7.x.x
   7.0.5:
     folder: 7.x.x
+  "7.1.0":
+    folder: 7.x.x

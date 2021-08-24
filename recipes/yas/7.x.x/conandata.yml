@@ -5,3 +5,6 @@ sources:
   7.0.5:
     url: https://github.com/niXman/yas/archive/7.0.5.zip
     sha256: 9ffcc71d99adced5dcf93d72dc1a7e3fed2b2a3e410fc97c6f923e61577d263f
+  "7.1.0":
+    url: "https://github.com/niXman/yas/archive/7.1.0.tar.gz"
+    sha256: "0317d4ec6fa507fe620d6281380822b6f0436d409a4e15be6add2e2e773b9d1f"
