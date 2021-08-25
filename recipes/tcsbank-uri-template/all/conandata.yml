@@ -5,3 +5,6 @@ sources:
   "1.1.4":
     url: "https://github.com/TinkoffCreditSystems/uri-template/archive/refs/tags/v1.1.4.tar.gz"
     sha256: "5f6e562813f1cf9ce40137db88ea4db54dc4bd77a6e5f813b106d494bbfb72b3"
+  "1.2.0":
+    url: "https://github.com/TinkoffCreditSystems/uri-template/archive/v1.2.0.tar.gz"
+    sha256: "cd50da6978d03ed8752a9a6c23447b83fd03fc0950b43c7f0195f475d6f5b43a"
