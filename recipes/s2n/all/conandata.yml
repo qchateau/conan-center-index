@@ -1,4 +1,7 @@
 sources:
+  "1.0.18":
+    url: "https://github.com/awslabs/s2n/archive/v1.0.18.tar.gz"
+    sha256: "74a01db4dec9ddec8fb17de98c8d47add6b6998fe512aed462ffd871691baa32"
   "1.0.11":
     url: "https://github.com/awslabs/s2n/archive/v1.0.11.tar.gz"
     sha256: "dbe886cf8cd6658cce571cdaba81e9a93d8c914fd1eba0d3233fec64ed53224b"
