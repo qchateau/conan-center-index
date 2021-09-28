@@ -1,4 +1,7 @@
 sources:
+  "6.18.4":
+    url: "https://github.com/bblanchon/ArduinoJson/archive/v6.18.4.tar.gz"
+    sha256: "68bcf7eada013de7e99988517e293c27a8fd3cedfc6f6ce4be97916b8ef82b0f"
   "6.18.0":
     url: "https://github.com/bblanchon/ArduinoJson/releases/download/v6.18.0/ArduinoJson-v6.18.0.zip"
     sha256: "2ade6a0097845d6bc0292a7f9ffa58cbd7e11a34a26616ac9e40a7754a18f1a9"
