@@ -1,4 +1,7 @@
 sources:
+  "2.6.1":
+    url: "https://github.com/dpilger26/NumCpp/archive/Version_2.6.1.tar.gz"
+    sha256: "a205270ff39fa66e176a8eb24251cf3a19aeba26a117abecbd465c145fde36ec"
   "2.5.1":
     url: "https://github.com/dpilger26/NumCpp/archive/Version_2.5.1.tar.gz"
     sha256: "0677907a90e96a468a9ea4e702940833570c2419d9a822724ee708dddd3c422e"
