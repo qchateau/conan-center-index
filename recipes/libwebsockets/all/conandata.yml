@@ -14,3 +14,6 @@ sources:
   "4.2.1":
     url: "https://github.com/warmcat/libwebsockets/archive/v4.2.1.tar.gz"
     sha256: "842da21f73ccba2be59e680de10a8cce7928313048750eb6ad73b6fa50763c51"
+  "4.2.2":
+    url: "https://github.com/warmcat/libwebsockets/archive/v4.2.2.tar.gz"
+    sha256: "c2ae635485b8ef8d383dee0aee29ad6272d4462e527d29d9af014ab4a2465cbd"
