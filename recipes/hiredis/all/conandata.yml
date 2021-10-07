@@ -1,8 +1,14 @@
 sources:
+  "1.0.1":
+    url: "https://github.com/redis/hiredis/archive/v1.0.1.tar.gz"
+    sha256: "a420df40775ac7b4b46550dd4df78ffe6620616333496a17c9c9fc556815ba4b"
   "1.0.0":
     url: "https://github.com/redis/hiredis/archive/v1.0.0.tar.gz"
     sha256: "2a0b5fe5119ec973a0c1966bfc4bd7ed39dbce1cb6d749064af9121fe971936f"
 patches:
+  "1.0.1":
+    - base_path: "source_subfolder"
+      patch_file: "patches/fix-cmake.patch"
   "1.0.0":
     - base_path: "source_subfolder"
       patch_file: "patches/fix-cmake.patch"
