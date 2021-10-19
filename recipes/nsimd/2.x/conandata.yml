@@ -1,4 +1,7 @@
 sources:
+  "3.0":
+    url: "https://github.com/agenium-scale/nsimd/archive/v3.0.tar.gz"
+    sha256: "5cab09020ce3a6819ddb3b3b8cafa6bc1377821b596c0f2954f52c852d092d5c"
   "2.2":
     url: "https://github.com/agenium-scale/nsimd/archive/v2.2.tar.gz"
     sha256: "7916bec6c8ea9ddc690a5bfc80fb1b9402f9e1b2a4b4bb6b6bb8eb5a07eb018e"
