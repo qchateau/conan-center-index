@@ -92,3 +92,6 @@ sources:
   "1.2.190":
     url: "https://github.com/KhronosGroup/Vulkan-Headers/archive/v1.2.190.tar.gz"
     sha256: "ce997a3d6f43f9697c5ec232efb0f6e7826d0648412ed141f9495e88429075e0"
+  "1.2.196":
+    url: "https://github.com/KhronosGroup/Vulkan-Headers/archive/v1.2.196.tar.gz"
+    sha256: "33cb99194b5ab082beb00bda1e96311dfe2cb20b0037b6d4c8ae926a50f5a750"
