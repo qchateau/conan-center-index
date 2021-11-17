@@ -1,4 +1,7 @@
 sources:
+  "2.8.3":
+    url: "https://github.com/wbhart/flint2/archive/v2.8.3.tar.gz"
+    sha256: "5536e9c3fb22b4cf239ec46648107feac336f9cb2da8127db85484a12c9d6ca1"
   "2.8.1":
     url: "https://github.com/wbhart/flint2/archive/refs/tags/v2.8.1.tar.gz"
     sha256: "93c4d6acd46d7a4357a2abe313e5f0625fa7e94a1a0e53048f9066f55a7acd49"
@@ -6,6 +9,11 @@ sources:
     url: "https://github.com/wbhart/flint2/archive/refs/tags/v2.7.1.tar.gz"
     sha256: "bcadc2252e61092a9b3a3198b337e20abeac56078eaa19793ab99ff7a987efb7"
 patches:
+  "2.8.3":
+    - patch_file: "patches/0001-cmake-2.8.1.patch"
+      base_path: "source_subfolder"
+    - patch_file: "patches/0002-msvc-alloca.patch"
+      base_path: "source_subfolder"
   "2.8.1":
     - patch_file: "patches/0001-cmake-2.8.1.patch"
       base_path: "source_subfolder"
