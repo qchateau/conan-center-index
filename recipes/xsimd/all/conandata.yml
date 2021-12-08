@@ -1,4 +1,7 @@
 sources:
+  "8.0.4":
+    url: "https://github.com/xtensor-stack/xsimd/archive/8.0.4.tar.gz"
+    sha256: "5197529e7ca715ddfcae7c5c4097879c86dae6ef85f3f67c402e2e6c5e803c41"
   "8.0.3":
     url: "https://github.com/xtensor-stack/xsimd/archive/refs/tags/8.0.3.tar.gz"
     sha256: "d1d41253c4f82eaf2f369d7fcb4142e35076cf8675b9d94caa06ecf883024344"
