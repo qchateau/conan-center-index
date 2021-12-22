@@ -14,3 +14,6 @@ sources:
   "3.4":
     url: "https://github.com/godotengine/godot-headers/archive/refs/tags/godot-3.4-stable.zip"
     sha256: "584c8fedb9c521e0f21b37aed60a7bf76f417a196bb79205cf41b4e79a866237"
+  "3.4.1":
+    url: "https://github.com/godotengine/godot-headers/archive/godot-3.4.1-stable.tar.gz"
+    sha256: "155b157e2b59975c58210537fc7958c2cb6809f17fd020b867cdb9da9b87ebbb"
