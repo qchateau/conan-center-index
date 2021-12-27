@@ -8,3 +8,6 @@ sources:
   "1.2.5":
     url: "https://github.com/oatpp/oatpp-websocket/archive/1.2.5.tar.gz"
     sha256: "b930034aaed40715ccc9b9df094292ea6e2a44f31bf830d1e15db5255ece9184"
+  "1.3.0":
+    url: "https://github.com/oatpp/oatpp-websocket/archive/1.3.0.tar.gz"
+    sha256: "8215765238c595e296c9ea961670064ff9c44e3e0f9accda59d81b10cc29873b"
