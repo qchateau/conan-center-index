@@ -1,4 +1,7 @@
 sources:
+  "0.11.1":
+    url: "https://github.com/libusb/hidapi/archive/hidapi-0.11.1.tar.gz"
+    sha256: "1d5d81879ffb8eca38abc69f9a8eaf60cb17844ae449c6fc29cc4db2f5fb31a5"
   "0.11.0":
     url: "https://github.com/libusb/hidapi/archive/hidapi-0.11.0.tar.gz"
     sha256: "391d8e52f2d6a5cf76e2b0c079cfefe25497ba1d4659131297081fc0cd744632"
