@@ -89,3 +89,6 @@ sources:
   "0.60.2":
     url: "https://github.com/mesonbuild/meson/archive/0.60.2.tar.gz"
     sha256: "fc7c2f315b5b63fee0414b0b94b5a7d0e9c71c8c9bb8487314eb5a9a33984b8d"
+  "0.61.0":
+    url: "https://github.com/mesonbuild/meson/archive/0.61.0.tar.gz"
+    sha256: "b08d7562ce7c2bc27d15fd6169110e2071c8584b0430e9c4165ba01d6a389872"
