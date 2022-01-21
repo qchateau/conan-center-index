@@ -1,4 +1,7 @@
 sources:
+  "0.2.0":
+    url: "https://github.com/Rechip/source_location/archive/v0.2.0.tar.gz"
+    sha256: "d6f8f7567bf03a7fe54f896b55a75f3482cecb792c72653490ab47205ba1670d"
   "0.1.1":
     url: "https://github.com/Rechip/source_location/archive/refs/tags/v0.1.1.zip"
     sha256: "2e177025c77d96cf9ccd994008dc5281e2385e1ee1bc89ca261807ce3f32c692"
