@@ -11,3 +11,6 @@ sources:
   "3.2.1":
     url: "https://github.com/taocpp/PEGTL/archive/3.2.1.tar.gz"
     sha256: "af33818352bc0b73c66aa9bc037735ce43d471533f1078ee828ba7e09962847d"
+  "3.2.4":
+    url: "https://github.com/taocpp/PEGTL/archive/3.2.4.tar.gz"
+    sha256: "50d84e44e107f6b9d7f0f0f3139cccc5c52e1f4824a985b57c87f28542dd1c1c"
