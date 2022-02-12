@@ -5,3 +5,6 @@ sources:
   "2.50":
     sha256: f1ddf17e876f88e074d4597767e365a1b5ef20414a38754884935b38d8c8e932
     url: https://github.com/WiringPi/WiringPi/archive/final_official_2.50.tar.gz
+  "2.61":
+    url: "https://github.com/WiringPi/WiringPi/archive/2.61-1.tar.gz"
+    sha256: "b5dc6c6c2ba1349acf602fafd7b58aa81e3fc3216a33b983386264cca0033e12"
