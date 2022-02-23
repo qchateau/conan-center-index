@@ -1,8 +1,14 @@
 sources:
+  "2021.10":
+    url: "https://github.com/cnr-isti-vclab/vcglib/archive/2021.10.tar.gz"
+    sha256: "a443a4a63c0f6691229c80aa22a15f17ab7d9da2b0b6a5111cf39aee86632d5a"
   "2020.12":
     url: "https://github.com/cnr-isti-vclab/vcglib/archive/refs/tags/2020.12.tar.gz"
     sha256: "731c57435e39c4b958a1d766cadd9865d9db35e36410708f2da7818e9fa5f786"
 patches:
+  "2021.10":
+    - patch_file: "patches/0001-use-external-eigen.patch"
+      base_path: "source_subfolder"
   "2020.12":
     - patch_file: "patches/0001-use-external-eigen.patch"
       base_path: "source_subfolder"
