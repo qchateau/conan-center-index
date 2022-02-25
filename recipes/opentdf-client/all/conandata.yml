@@ -1,4 +1,7 @@
 sources:
+  "0.5.3":
+    url: "https://github.com/opentdf/client-cpp/archive/0.5.3.tar.gz"
+    sha256: "251c5314d12c0ba484e612b3b1afa300c0a70995464c2d5bc1bc1c6f590d5cc7"
   "0.2.12":
     url: https://github.com/opentdf/client-cpp/archive/refs/tags/0.2.12.zip
     sha256: "eb717e7587e2330666373ab670c1ed79eb3459de0a6d08aea9632ac69881f4e0"
