@@ -1,4 +1,7 @@
 sources:
+  "1.19.2":
+    url: "https://gitlab.freedesktop.org/gstreamer/gst-plugins-good/-/archive/1.19.2/gst-plugins-good-1.19.2.tar.gz"
+    sha256: "5734d43f48bb8f82301d4990060bb5091ddc9401dac1dd0917ec7ac580196e03"
   "1.19.1":
     url: "https://gitlab.freedesktop.org/gstreamer/gst-plugins-good/-/archive/1.19.1/gst-plugins-good-1.19.1.tar.bz2"
-    sha256 : "c2c97b8bfeac812dbdca3a72a15a874de4845e4a042693dad8447272c8767a64"
+    sha256: "c2c97b8bfeac812dbdca3a72a15a874de4845e4a042693dad8447272c8767a64"
