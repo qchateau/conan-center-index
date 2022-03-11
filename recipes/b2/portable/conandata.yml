@@ -26,3 +26,6 @@ sources:
   "4.7.1":
     url: "https://github.com/bfgroup/b2/archive/4.7.1.tar.gz"
     sha256: "30844184ded3217c090b76e6e051c3ac663ea63bd19e1b727b05c54411cac867"
+  "4.7.2":
+    url: "https://github.com/bfgroup/b2/archive/4.7.2.tar.gz"
+    sha256: "70883f8ed82efc49f425f1961a82e961cefdbca3a28581cb57b405bd7516677f"
