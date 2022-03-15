@@ -1,4 +1,7 @@
 sources:
+  "1.0.2":
+    url: "https://github.com/likle/cargs/archive/v1.0.2.tar.gz"
+    sha256: "8cc6e057de754c7dad0ffbe3ae26195cb2cce6f176d7868d91ac7b2b10f9031f"
   "1.0.1":
     url: "https://github.com/likle/cargs/archive/v1.0.1.tar.gz"
     sha256: "1ff43742857e1ae8f6d76a98c92631ca2095f121a0d7b566f8c4d1f811c3387b"
