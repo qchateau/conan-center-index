@@ -1,4 +1,7 @@
 sources:
+  "10.40":
+    url: "https://github.com/PhilipHazel/pcre2/archive/pcre2-10.40.tar.gz"
+    sha256: "a057381270857d01a1a8b2c2fcf176b1c3c6aea595d586649755c33a5843d52f"
   "10.39":
     url: "https://github.com/PhilipHazel/pcre2/releases/download/pcre2-10.39/pcre2-10.39.tar.bz2"
     sha256: "0f03caf57f81d9ff362ac28cd389c055ec2bf0678d277349a1a4bee00ad6d440"
