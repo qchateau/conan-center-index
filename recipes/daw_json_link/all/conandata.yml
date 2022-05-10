@@ -1,4 +1,7 @@
 sources:
+  "2.15.1":
+    url: "https://github.com/beached/daw_json_link/archive/v2.15.1.tar.gz"
+    sha256: "aeef705a1e62b2b94b330f384c0d08443cf7437f7ccf8382a4564bcb4b3b0eb7"
   "2.12.9":
     url: "https://github.com/beached/daw_json_link/archive/v2.12.9.tar.gz"
     sha256: "a55d1517ff785aed58ddf9e570cad5175231b5c356d7066c097bfca129d0b7c8"
