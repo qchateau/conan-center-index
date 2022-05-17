@@ -1,4 +1,7 @@
 sources:
+  "0.45.1":
+    url: "https://github.com/eerimoq/pbtools/archive/0.45.1.tar.gz"
+    sha256: "b539593d735e6d54bab92f9b5b1277a67fec6f299a03c1fc6673f51c8bcd2395"
   "0.45.0":
     url: "https://github.com/eerimoq/pbtools/archive/refs/tags/0.45.0.zip"
     sha256: 84b17003f1c7b6c62061e93e11abe8729480338f5f106948ebfefa303c163b75
