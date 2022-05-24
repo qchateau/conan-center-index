@@ -1,4 +1,7 @@
 sources:
+  "5.0.0":
+    url: "https://github.com/OPCFoundation/UA-Nodeset/archive/I4AAS-5.0.0-2021-06-04.tar.gz"
+    sha256: "3a3680119ba0bf0cb5f717a25c408a966434af2661f7439d487a7304c235204c"
   "padim-1.02-2021-07-21":
     # This is just the latest tag on the 1.04 release branch as of 23Sep2021
     url: https://github.com/OPCFoundation/UA-Nodeset/archive/refs/tags/PADIM-1.02-2021-07-21.tar.gz
