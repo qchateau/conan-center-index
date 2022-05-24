@@ -1,8 +1,14 @@
 sources:
+  "1.4.1":
+    url: "https://github.com/ignitionrobotics/ign-tools/archive/ignition-tools_1.4.1.tar.gz"
+    sha256: "950059424c2de42e825d31cab63015e18fe4c61a2b54911d375c138093139cac"
   "1.4.0":
     url: "https://github.com/ignitionrobotics/ign-tools/archive/refs/tags/ignition-tools_1.4.0.tar.gz"
     sha256: "fa3f7984ebb8f412133ea93368395adce426ae36c715a9f94f9509af7dac3b03"
 patches:
+  "1.4.1":
+    - base_path: "source_subfolder"
+      patch_file: "patches/0003-ign-tools-1.4.0-cmake-fixes.patch"
   "1.4.0":
     - base_path: "source_subfolder"
       patch_file: "patches/0003-ign-tools-1.4.0-cmake-fixes.patch"
