@@ -1,4 +1,7 @@
 sources:
+  "0.2.10":
+    url: "https://github.com/awslabs/aws-c-event-stream/archive/v0.2.10.tar.gz"
+    sha256: "ea048331772ee861e17e6abc4f984ebfee1ad6e58545173b88e92f1dbeed0a20"
   "0.2.7":
     url: "https://github.com/awslabs/aws-c-event-stream/archive/v0.2.7.tar.gz"
     sha256: "bb5c94cdff70c1985fb0b5f30d81756cedb5a3c3075d37f7e1e2b34e2a33c8c0"
