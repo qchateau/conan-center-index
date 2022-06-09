@@ -5,6 +5,9 @@ sources:
   "1.9.1":
     url: "https://github.com/berndporr/iir1/archive/refs/tags/1.9.1.tar.gz"
     sha256: "97B4A7D62FA4859AC0D80283696B0D91C320B61EC2A455CDD3D8CFBB2BE3AD9A"
+  "1.9.2":
+    url: "https://github.com/berndporr/iir1/archive/1.9.2.tar.gz"
+    sha256: "b53581a71b0e116c74429ffd936b8a94cd1c3e626b8074f948024d2e23bff161"
 patches:
   "1.9.0":
     - patch_file: "patches/0002-Add-runtime-export-to-install.patch"
