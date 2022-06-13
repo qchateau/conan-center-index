@@ -155,3 +155,6 @@ sources:
   "3.23.1":
     sha256: 33fd10a8ec687a4d0d5b42473f10459bb92b3ae7def2b745dc10b192760869f3
     url: https://github.com/Kitware/CMake/releases/download/v3.23.1/cmake-3.23.1.tar.gz
+  "3.23.2":
+    url: "https://github.com/Kitware/CMake/archive/v3.23.2.tar.gz"
+    sha256: "b19401d6816d1153f0f8e14e99377b86d8b07abccfadf2ed2aa4de7572b43ada"
