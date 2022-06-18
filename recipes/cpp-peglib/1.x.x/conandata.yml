@@ -1,4 +1,7 @@
 sources:
+  "1.5.0":
+    url: "https://github.com/yhirose/cpp-peglib/archive/v1.5.0.tar.gz"
+    sha256: "45a02b749556af6ab0abf78c4c1d1afe02f17705b1c51f5820e957616f453b33"
   "1.4.2":
     url: "https://github.com/yhirose/cpp-peglib/archive/v1.4.2.tar.gz"
     sha256: "28a09c1bee50608733a989cd5b62368a767a66f9e1a39654c0342e9698c479ca"
