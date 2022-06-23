@@ -1,4 +1,7 @@
 sources:
+  "21.1":
+    url: "https://github.com/protocolbuffers/protobuf/archive/v21.1.tar.gz"
+    sha256: "f1a83673cbcaff6346a8fba87a9c02c0f943a4a696b6c7d1b71586d97609db12"
   "3.21.1":
     url: "https://github.com/protocolbuffers/protobuf/archive/v3.21.1.tar.gz"
     sha256: "a295dd3b9551d3e2749a9969583dea110c6cdcc39d02088f7c7bb1100077e081"
