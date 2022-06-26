@@ -15,3 +15,6 @@ sources:
   "cci.20220207+1.87.docking":
     url: "https://github.com/ocornut/imgui/archive/1ee252772ae9c0a971d06257bb5c89f628fa696a.tar.gz"
     sha256: "c50e263660e1deb6e85b10a0382bf8a6fc861645e44b7012bd32da5460829ae0"
+  "1.88":
+    url: "https://github.com/ocornut/imgui/archive/v1.88.tar.gz"
+    sha256: "9f14c788aee15b777051e48f868c5d4d959bd679fc5050e3d2a29de80d8fd32e"

@@ -11,3 +11,5 @@ versions:
   # after a regular release
   "cci.20220207+1.87.docking":
     folder: all
+  "1.88":
+    folder: all
