@@ -1,4 +1,7 @@
 sources:
+  "1.22.1":
+    url: "https://github.com/kcat/openal-soft/archive/1.22.1.tar.gz"
+    sha256: "be771f9a8b3c9f283e71d7a9e3dc29a8f8fd3b25263b228d61fbcc638ec8a629"
   "1.21.1":
     url: "https://github.com/kcat/openal-soft/archive/refs/tags/1.21.1.tar.gz"
     sha256: "8ac17e4e3b32c1af3d5508acfffb838640669b4274606b7892aa796ca9d7467f"
