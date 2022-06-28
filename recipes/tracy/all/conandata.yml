@@ -1,4 +1,7 @@
 sources:
+  "0.8.2":
+    url: "https://github.com/wolfpld/tracy/archive/v0.8.2-meson-hotfix.tar.gz"
+    sha256: "1ce095ca441597bf5771d8c75e982b2ebb8009602b95a3bbd400fb52a3b27537"
   "0.8.1":
     url: "https://github.com/wolfpld/tracy/archive/refs/tags/v0.8.1.tar.gz"
     sha256: "004992012b2dc879a9f6d143cbf94d7ea30e88135db3ef08951605d214892891"
