@@ -14,3 +14,6 @@ sources:
   "2.0.3":
     url: "https://github.com/nfrechette/acl/archive/v2.0.3.tar.gz"
     sha256: "2cc0a6fd8f74ba7fee9177f6b7794bfdc22a27f5b00aa684ba52d60f0f8b3460"
+  "2.0.4":
+    url: "https://github.com/nfrechette/acl/archive/v2.0.4.tar.gz"
+    sha256: "6c8380ebabd7587489282d37ff63ac583bcd2cd582b37b58c24042940a6d4402"
