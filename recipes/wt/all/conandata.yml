@@ -1,4 +1,7 @@
 sources:
+  "4.7.2":
+    url: "https://github.com/emweb/wt/archive/4.7.2.tar.gz"
+    sha256: "38b074f32383f43d9f8d4c0f7b1a29ea4fd3faaf9cc983d2d0277ac7a5c6a4cf"
   "4.7.1":
     url: "https://github.com/emweb/wt/archive/4.7.1.tar.gz"
     sha256: "04548ff017b026f7c2e46fd2f12cc70fbeeadebaf473fb1d6eb472868d11dce1"
