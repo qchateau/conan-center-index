@@ -1,4 +1,7 @@
 sources:
+  "1.0.0.1006":
+    url: "https://github.com/enjin/enjin-cpp-sdk/archive/1.0.0.1006.tar.gz"
+    sha256: "3b75bf2bb5b0fb9dc995e7c319dc0795d3bee802ebdbd7ed5565a944bf87f6ec"
   "1.0.0-alpha.7":
     url: "https://github.com/enjin/enjin-cpp-sdk/archive/1.0.0.1006.tar.gz"
     sha256: "3b75bf2bb5b0fb9dc995e7c319dc0795d3bee802ebdbd7ed5565a944bf87f6ec"
