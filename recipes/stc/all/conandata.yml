@@ -1,4 +1,7 @@
 sources:
+  "3.8":
+    url: "https://github.com/tylov/STC/archive/v3.8.tar.gz"
+    sha256: "2be6e72ef8e90585b2936f7f25826b8a124dfedb7f4046f373905783ff5674c7"
   "3.5.1":
     url: "https://github.com/tylov/STC/archive/refs/tags/v3.5.1.tar.gz"
     sha256: "c3799303ad9ed42de31da2b642f281731a157d82d503b1e4f3d4cabcb431e978"
