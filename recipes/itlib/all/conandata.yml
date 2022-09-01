@@ -1,4 +1,7 @@
 sources:
+  "1.6.0":
+    url: "https://github.com/iboB/itlib/archive/v1.6.0.tar.gz"
+    sha256: "bb8272d1e3d8350576b9f23c033dff6cd7dc0ea3459c436a1f7744087584813a"
   "1.5.2":
     url: "https://github.com/iboB/itlib/archive/v1.5.2.tar.gz"
     sha256: "9ebff09fcdc873d2b01d8a2d0de2a7d7bd11844ef632f80ec5041f78bdc6ddec"
