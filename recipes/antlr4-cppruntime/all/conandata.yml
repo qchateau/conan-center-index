@@ -8,6 +8,9 @@ sources:
   "4.10.1":
     url: "https://github.com/antlr/antlr4/archive/refs/tags/4.10.1.tar.gz"
     sha256: "a320568b738e42735946bebc5d9d333170e14a251c5734e8b852ad1502efa8a2"
+  "4.11.0":
+    url: "https://github.com/antlr/antlr4/archive/runtime/Go/antlr/v4/v4.11.0.tar.gz"
+    sha256: "d309d97597f9250fe7517596a4ae794ac972aa89eccf9bad5b74b03ec48ac08c"
 patches:
   "4.9.3":
     - patch_file: "patches/0001-update-cmakelist.patch"
