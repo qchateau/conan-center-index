@@ -8,3 +8,6 @@ sources:
   "1.17.0":
     url: "https://github.com/thrust/thrust/archive/1.17.0.tar.gz"
     sha256: "b02aca5d2325e9128ed9d46785b8e72366f758b873b95001f905f22afcf31bbf"
+  "1.17.1":
+    url: "https://github.com/thrust/thrust/archive/1.17.1.tar.gz"
+    sha256: "5b67fefc55cc858b5ec211828f1df6fc8740b4f5493e877fee451d249d577ee9"
