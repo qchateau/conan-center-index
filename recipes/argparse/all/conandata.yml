@@ -1,4 +1,7 @@
 sources:
+  "2.7":
+    url: "https://github.com/p-ranav/argparse/archive/v2.7.tar.gz"
+    sha256: "65b597c54a6026483f292aa75c253b9f461c7837d239526f169c04c72fd4ad44"
   "2.6":
     url: "https://github.com/p-ranav/argparse/archive/v2.6.tar.gz"
     sha256: "da261c3b3010c10a163f4535bbe2b160319d2a6b1e0fd2eb5a7b9f6a85c29021"
