@@ -1,4 +1,7 @@
 sources:
+  "0.6.20":
+    url: "https://github.com/awslabs/aws-c-http/archive/v0.6.20.tar.gz"
+    sha256: "dabe1b65fed61bebdfcd52abbcacfcc2beeb455085a773257c8d38c27b942423"
   "0.6.13":
     url: "https://github.com/awslabs/aws-c-http/archive/v0.6.13.tar.gz"
     sha256: "8c69f8fc58b7073039e598383da3e1fd9b23f392cb992dbe769a7b80f342dbaf"
