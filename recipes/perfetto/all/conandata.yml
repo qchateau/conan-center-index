@@ -30,6 +30,9 @@ sources:
     url: https://github.com/google/perfetto/archive/refs/tags/v27.1.tar.gz
     sha256: 9edbafd6e2d9feaced4c0153e2f48dbb1da38429c5b1b17dfee70a91fd3101b2
 
+  "29.0":
+    url: "https://github.com/google/perfetto/archive/v29.0.tar.gz"
+    sha256: "2f27676787f2cf7cc88f7a3554ee04b3b82593a3c15b59d93ba7194376713b42"
 patches:
   "20.1":
     - patch_file: "patches/v20.1/0001-Fix-perfetto-logging-when-PERFETTO_DISABLE_LOG-activ.patch"
