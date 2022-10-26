@@ -1,4 +1,7 @@
 sources:
+  "1.1.8":
+    url: "https://github.com/kspalaiologos/bzip3/archive/1.1.8.tar.gz"
+    sha256: "a4232acdfcbeb6e8a6b3402293bf58a8301c7cee8160e1cec5d2e19e89dc87b6"
   "1.1.7":
     url: "https://github.com/kspalaiologos/bzip3/releases/download/1.1.7/bzip3-1.1.7.tar.bz2"
     sha256: "1f74768dd1a76c45417f84779cc04d8d8b1f595ac564a2ea2aeb0248defca803"
