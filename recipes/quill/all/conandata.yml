@@ -1,4 +1,7 @@
 sources:
+  "2.3.1":
+    url: "https://github.com/odygrd/quill/archive/v2.3.1.tar.gz"
+    sha256: "62fb3bb3c89c24bddbb7e874ae53ecb68660cdd961a99f49bdfb7f5db9243824"
   "2.2.0":
     url: "https://github.com/odygrd/quill/archive/v2.2.0.tar.gz"
     sha256: "6b123b60b16d41009228d907851f025c8be974d5fcf41af0b6afbe48edebbf73"
