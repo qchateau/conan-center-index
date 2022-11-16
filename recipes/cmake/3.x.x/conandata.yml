@@ -23,3 +23,6 @@ sources:
   "3.24.2":
     url: "https://github.com/Kitware/CMake/releases/download/v3.24.2/cmake-3.24.2.tar.gz"
     sha256: "0d9020f06f3ddf17fb537dc228e1a56c927ee506b486f55fe2dc19f69bf0c8db"
+  "3.24.3":
+    url: "https://github.com/Kitware/CMake/archive/v3.24.3.tar.gz"
+    sha256: "766927ced9a9948b4cb8377821fb8325fec861b15cbe847f9e61d3578872d254"
