@@ -1,4 +1,7 @@
 sources:
+  "0.2.0":
+    url: "https://github.com/victimsnino/ReactivePlusPlus/archive/v0.2.0.tar.gz"
+    sha256: "f5b1121710eac6b2726fcde95394bc99713474df07ccf7c39c51c7ab45eca823"
   "0.1.2":
     url: "https://github.com/victimsnino/ReactivePlusPlus/archive/refs/tags/v0.1.2.tar.gz"
     sha256: "daa16d8258d811bfc6848829ea1afa6f4a72b68ad8978d55ea4e1cf809ae6d52"
