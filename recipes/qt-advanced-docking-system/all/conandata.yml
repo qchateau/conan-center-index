@@ -1,4 +1,7 @@
 sources:
+  "4.0.0":
+    url: "https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System/archive/4.0.0.tar.gz"
+    sha256: "31985bc4a5067159b448584bc2485f8b8d7a228b95f01a5be1b9733eeb94e767"
   "3.8.3":
     url: "https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System/archive/refs/tags/3.8.3.tar.gz"
     sha256: "bd5a9469b755bedf33baefd0b3dda6d167b7917a2888e2794eed5abee7d78f74"
