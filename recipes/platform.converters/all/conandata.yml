@@ -1,4 +1,7 @@
 sources:
+  "0.3.2":
+    url: "https://github.com/linksplatform/Converters/archive/csharp_0.3.2.tar.gz"
+    sha256: "ca03b344d1f1ed8abf991e684ffd9d4a7f7b40d155f62b390c5f57f0569ada81"
   "0.1.0":
     url: https://github.com/linksplatform/Converters/archive/refs/tags/cpp_0.1.0.zip
     sha256: a1a9e566b6628b1e09875f9ee93fb7fb600a8371d07e00a25c127e1609375d96
