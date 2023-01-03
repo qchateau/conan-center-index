@@ -17,3 +17,6 @@ sources:
   "1.10.0":
     sha256: 27a3e42ed02d8d9341229d58a517134753e1ea46dab4c40d01bb309098c32f13
     url: https://github.com/DavidAce/h5pp/archive/v1.10.0.tar.gz
+  "1.10.1":
+    url: "https://github.com/DavidAce/h5pp/archive/v1.10.1.tar.gz"
+    sha256: "0d481cf894f47d99694058ae7a5f2bde73b8fe874f64ce35273234c1ee250683"
