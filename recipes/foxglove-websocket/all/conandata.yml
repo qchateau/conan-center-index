@@ -1,4 +1,7 @@
 sources:
+  "0.2.0":
+    url: "https://github.com/foxglove/ws-protocol/archive/releases/typescript/ws-protocol/v0.2.0.tar.gz"
+    sha256: "56c5c0a05ad77b5b9588f080a92b6ff7176b1952791183fac3645fe0660a8adb"
   0.0.1:
     url: https://github.com/foxglove/ws-protocol/archive/refs/tags/releases/cpp/v0.0.1.tar.gz
     sha256: 94766f44973f0c0ce7e87039b9ef9d5b4a8bc73727047568170ac61262625c9b
