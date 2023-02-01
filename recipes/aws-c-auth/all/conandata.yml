@@ -1,4 +1,7 @@
 sources:
+  "0.6.23":
+    url: "https://github.com/awslabs/aws-c-auth/archive/v0.6.23.tar.gz"
+    sha256: "016d0f12acfd6d4fce946566ceab3c85aa2a5c48ab72bdf9855201ab9b612903"
   "0.6.17":
     url: "https://github.com/awslabs/aws-c-auth/archive/v0.6.17.tar.gz"
     sha256: "b43678ad3a779c9c7fccf8f931c162eaaf4d5d64d2955ac1fcfd32e538545c0f"
