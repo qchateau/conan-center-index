@@ -17,3 +17,6 @@ sources:
   2.10.1:
     url: "https://github.com/pybind/pybind11/archive/v2.10.1.tar.gz"
     sha256: "111014b516b625083bef701df7880f78c2243835abdb263065b6b59b960b6bad"
+  "35802606":
+    url: "https://github.com/pybind/pybind11/archive/milestones_reached/pr2672_as_deployed_with_cl_358092606.tar.gz"
+    sha256: "90412575d025b3d409811b6773a405bdc30c4eeee517118b563abc41e205e747"
