@@ -5,3 +5,6 @@ sources:
   "v8":
     url: https://github.com/rollbear/strong_type/archive/refs/tags/v8.tar.gz
     sha256: 31ee68e097fec2ce65dbf2ed683911c5ee6a7a37808b28d84479ef7e17990fad
+  "10":
+    url: "https://github.com/rollbear/strong_type/archive/v10.tar.gz"
+    sha256: "154e4ceda6cf8fe734deb7eafdf58df5052822d04425dc7c22711ef54cdaeefa"
