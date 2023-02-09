@@ -10,4 +10,7 @@ sources:
     sha256: "1a963afd0f883d62de946b18927d238051fd47936e415eabeffe2b1397f16eca"
   "2.0.7":
     url: "https://github.com/log4cplus/log4cplus/releases/download/REL_2_0_7/log4cplus-2.0.7.tar.bz2"
-    sha256: "8fadbafee2ba4e558a0f78842613c9fb239c775d83f23340d091084c0e1b12ab"        
+    sha256: "8fadbafee2ba4e558a0f78842613c9fb239c775d83f23340d091084c0e1b12ab"
+  "2.0.8":
+    url: "https://github.com/log4cplus/log4cplus/archive/REL_2_0_8.tar.gz"
+    sha256: "e24f451cc1daf059501b65dfc4491604e397dca313c1a6151b1350d130c8e58a"
