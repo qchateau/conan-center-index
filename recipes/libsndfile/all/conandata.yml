@@ -1,4 +1,7 @@
 sources:
+  "1.2.0":
+    url: "https://github.com/libsndfile/libsndfile/archive/1.2.0.tar.gz"
+    sha256: "62dc4e2bcd45f6f0e89cbc3522cc90eb174dca0eef0a0d19ead289833b390cd7"
   "1.0.31":
     url: "https://github.com/libsndfile/libsndfile/releases/download/1.0.31/libsndfile-1.0.31.tar.bz2"
     sha256: "a8cfb1c09ea6e90eff4ca87322d4168cdbe5035cb48717b40bf77e751cc02163"
@@ -9,6 +12,8 @@ sources:
     url: "https://github.com/libsndfile/libsndfile/releases/download/v1.0.29/libsndfile-1.0.29.tar.bz2"
     sha256: "2ba20d44817c8176f097ab25eff44ef0aeec9e00973def5a7174c5ae0764b22f"
 patches:
+  "1.2.0":
+    - patch_file: "patches/1.0.31-0001-fix-msvc-runtime-logic.patch"
   "1.0.31":
     - patch_file: "patches/1.0.31-0001-fix-msvc-runtime-logic.patch"
   "1.0.30":
