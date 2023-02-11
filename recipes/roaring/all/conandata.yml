@@ -1,4 +1,7 @@
 sources:
+  "0.9.5":
+    url: "https://github.com/RoaringBitmap/CRoaring/archive/v0.9.5.tar.gz"
+    sha256: "f4ee9e2bb00411ebcf52751f02b37114e55289e827e8f7beedd36694c30e7f29"
   "0.9.3":
     url: "https://github.com/RoaringBitmap/CRoaring/archive/v0.9.3.tar.gz"
     sha256: "b7534adebf50a554e86b81a2b39459c9921c504e9a876abe00bd741d0a4bc85d"
