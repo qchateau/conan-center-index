@@ -1,4 +1,7 @@
 sources:
+  "1.5.4":
+    url: "https://github.com/facebook/zstd/archive/v1.5.4.tar.gz"
+    sha256: "35ad983197f8f8eb0c963877bf8be50490a0b3df54b4edeb8399ba8a8b2f60a4"
   "1.5.2":
     url: "https://github.com/facebook/zstd/releases/download/v1.5.2/zstd-1.5.2.tar.gz"
     sha256: "7c42d56fac126929a6a85dbc73ff1db2411d04f104fae9bdea51305663a83fd0"
@@ -33,6 +36,12 @@ sources:
     url: "https://github.com/facebook/zstd/archive/refs/tags/v1.3.5.tar.gz"
     sha256: "d6e1559e4cdb7c4226767d4ddc990bff5f9aab77085ff0d0490c828b025e2eea"
 patches:
+  "1.5.4":
+    - patch_file: "patches/1.5.2-cmake-remove-asm-except-x86_64.patch"
+    - patch_file: "patches/1.5.0-remove-explicit-standard-setting.patch"
+      patch_description: "fix strange performance and scalability issues"
+      patch_type: "backport"
+      patch_source: "https://github.com/facebook/zstd/pull/3167"
   "1.5.2":
     - patch_file: "patches/1.5.2-cmake-remove-asm-except-x86_64.patch"
     - patch_file: "patches/1.5.0-remove-explicit-standard-setting.patch"
