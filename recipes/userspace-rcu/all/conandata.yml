@@ -1,4 +1,7 @@
 sources:
+  "0.13.2":
+    url: "https://github.com/urcu/userspace-rcu/archive/v0.13.2.tar.gz"
+    sha256: "312d95376e76068b8cc70347676f1570f4f20b3014862f729dc538a316593824"
   "0.11.4":
     sha256: d995598482221587ff6753d2a8da6ac74ff0fa79fbea29ccee196f295834531d
     url: https://github.com/urcu/userspace-rcu/archive/refs/tags/v0.11.4.tar.gz
