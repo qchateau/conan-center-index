@@ -1,4 +1,7 @@
 sources:
+  "21.12":
+    url: "https://github.com/protocolbuffers/protobuf/archive/v21.12.tar.gz"
+    sha256: "22fdaf641b31655d4b2297f9981fa5203b2866f8332d3c6333f6b0107bb320de"
   "3.21.9":
     url: "https://github.com/protocolbuffers/protobuf/archive/refs/tags/v3.21.9.tar.gz"
     sha256: "1add10f9bd92775b91f326da259f243881e904dd509367d5031d4c782ba82810"
@@ -23,11 +26,13 @@ sources:
 patches:
   "3.19.6":
     - patch_file: "patches/upstream-pr-9437-msvc-runtime.patch"
-      patch_description: "Properly handle CMAKE_MSVC_RUNTIME_LIBRARY when using CMake >= 3.15"
+      patch_description: "Properly handle CMAKE_MSVC_RUNTIME_LIBRARY when using CMake\
+        \ >= 3.15"
       patch_type: "portability"
       patch_source: "https://github.com/protocolbuffers/protobuf/pull/9437"
   "3.19.4":
     - patch_file: "patches/upstream-pr-9437-msvc-runtime.patch"
-      patch_description: "Properly handle CMAKE_MSVC_RUNTIME_LIBRARY when using CMake >= 3.15"
+      patch_description: "Properly handle CMAKE_MSVC_RUNTIME_LIBRARY when using CMake\
+        \ >= 3.15"
       patch_type: "portability"
       patch_source: "https://github.com/protocolbuffers/protobuf/pull/9437"
