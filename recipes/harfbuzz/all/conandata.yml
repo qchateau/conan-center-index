@@ -20,6 +20,9 @@ sources:
   "6.0.0":
     url: "https://github.com/harfbuzz/harfbuzz/archive/6.0.0.tar.gz"
     sha256: "6d753948587db3c7c3ba8cc4f8e6bf83f5c448d2591a9f7ec306467f3a4fe4fa"
+  "7.0.1":
+    url: "https://github.com/harfbuzz/harfbuzz/archive/7.0.1.tar.gz"
+    sha256: "9f6601010fc471b8a41f56d529b6000bd3a6df3dca10565794669fa66292457c"
 patches:
   "4.4.1":
     - patch_file: "patches/0000-fix-freetype-lookup-4.4.1.patch"
