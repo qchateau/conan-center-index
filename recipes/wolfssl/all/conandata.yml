@@ -1,4 +1,7 @@
 sources:
+  "5.5.4":
+    url: "https://github.com/wolfSSL/wolfssl/archive/v5.5.4-stable.tar.gz"
+    sha256: "b7ee150e49def77c765bc02aac92ddeb0bebefd4cb12aa263d8f95e405221fb8"
   "5.5.1":
     url: "https://github.com/wolfSSL/wolfssl/archive/v5.5.1-stable.tar.gz"
     sha256: "97339e6956c90e7c881ba5c748dd04f7c30e5dbe0c06da765418c51375a6dee3"
