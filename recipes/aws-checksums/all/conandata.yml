@@ -1,4 +1,7 @@
 sources:
+  "0.1.14":
+    url: "https://github.com/awslabs/aws-checksums/archive/v0.1.14.tar.gz"
+    sha256: "84f226f28f9f97077c924fb9f3f59e446791e8826813155cdf9b3702ba2ec0c5"
   "0.1.13":
     url: "https://github.com/awslabs/aws-checksums/archive/v0.1.13.tar.gz"
     sha256: "0f897686f1963253c5069a0e495b85c31635ba146cd3ac38cc2ea31eaf54694d"
