@@ -1,4 +1,7 @@
 sources:
+  "11.1.5.2":
+    url: "https://github.com/FFmpeg/nv-codec-headers/archive/n11.1.5.2.tar.gz"
+    sha256: "576df78bad704e2854991100bea99e974759304ac1411c02707ebc95a425191b"
   "11.1.5.1":
     url: "https://github.com/FFmpeg/nv-codec-headers/archive/n11.1.5.1.tar.gz"
     sha256: "d095fbd56aa93772471a323be0ebe65504a0f43f06c76a30b6d25da77b06ae9c"
