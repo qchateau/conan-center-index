@@ -1,4 +1,7 @@
 sources:
+  "2.8.3":
+    url: "https://github.com/syoyo/tinygltf/archive/v2.8.3.tar.gz"
+    sha256: "fbef83ef47dbc6d1662103b54ea54f05a753ddff7a11d80b9fe0cd306ab5d4d2"
   "2.5.0":
     url: "https://github.com/syoyo/tinygltf/archive/v2.5.0.tar.gz"
     sha256: "5d85bd556b60b1b69527189293cfa4902957d67fabb8582b6532f23a5ef27ec1"
