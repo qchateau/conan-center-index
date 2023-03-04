@@ -1,4 +1,7 @@
 sources:
+  "0.24.5":
+    url: "https://github.com/xtensor-stack/xtensor/archive/0.24.5.tar.gz"
+    sha256: "f0a9f33183d440d76e01bf41caa89a087239c8cfecd7cab47757df3100e7a00a"
   "0.24.3":
     url: "https://github.com/xtensor-stack/xtensor/archive/0.24.3.tar.gz"
     sha256: "3acde856b9fb8cf4e2a7b66726da541275d40ab9b002e618ad985ab97f08ca4f"
@@ -29,31 +32,37 @@ sources:
 patches:
   "0.24.2":
     - patch_file: "patches/0.24.0-cxx11-abi.patch"
-      patch_description: "has_trivial_default_constructor has been removed from libstdc++ since version 7"
+      patch_description: "has_trivial_default_constructor has been removed from libstdc++\
+        \ since version 7"
       patch_type: "bugfix"
       patch_source: "https://github.com/xtensor-stack/xtensor/pull/2459"
   "0.24.0":
     - patch_file: "patches/0.24.0-cxx11-abi.patch"
-      patch_description: "has_trivial_default_constructor has been removed from libstdc++ since version 7"
+      patch_description: "has_trivial_default_constructor has been removed from libstdc++\
+        \ since version 7"
       patch_type: "bugfix"
       patch_source: "https://github.com/xtensor-stack/xtensor/pull/2459"
   "0.23.10":
     - patch_file: "patches/0.23.9-cxx11-abi.patch"
-      patch_description: "has_trivial_default_constructor has been removed from libstdc++ since version 7"
+      patch_description: "has_trivial_default_constructor has been removed from libstdc++\
+        \ since version 7"
       patch_type: "bugfix"
       patch_source: "https://github.com/xtensor-stack/xtensor/pull/2459"
   "0.23.9":
     - patch_file: "patches/0.23.9-cxx11-abi.patch"
-      patch_description: "has_trivial_default_constructor has been removed from libstdc++ since version 7"
+      patch_description: "has_trivial_default_constructor has been removed from libstdc++\
+        \ since version 7"
       patch_type: "bugfix"
       patch_source: "https://github.com/xtensor-stack/xtensor/pull/2459"
   "0.21.5":
     - patch_file: "patches/0.21.5-cxx11-abi.patch"
-      patch_description: "has_trivial_default_constructor has been removed from libstdc++ since version 7"
+      patch_description: "has_trivial_default_constructor has been removed from libstdc++\
+        \ since version 7"
       patch_type: "bugfix"
       patch_source: "https://github.com/xtensor-stack/xtensor/pull/2459"
   "0.21.4":
     - patch_file: "patches/0.21.4-cxx11-abi.patch"
-      patch_description: "has_trivial_default_constructor has been removed from libstdc++ since version 7"
+      patch_description: "has_trivial_default_constructor has been removed from libstdc++\
+        \ since version 7"
       patch_type: "bugfix"
       patch_source: "https://github.com/xtensor-stack/xtensor/pull/2459"
