@@ -17,3 +17,6 @@ sources:
   2.10.1:
     url: "https://github.com/pybind/pybind11/archive/v2.10.1.tar.gz"
     sha256: "111014b516b625083bef701df7880f78c2243835abdb263065b6b59b960b6bad"
+  "2.10.3":
+    url: "https://github.com/pybind/pybind11/archive/v2.10.3.tar.gz"
+    sha256: "5d8c4c5dda428d3a944ba3d2a5212cb988c2fae4670d58075a5a49075a6ca315"
