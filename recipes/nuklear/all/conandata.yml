@@ -1,4 +1,7 @@
 sources:
+  "4.10.5":
+    url: "https://github.com/Immediate-Mode-UI/Nuklear/archive/4.10.5.tar.gz"
+    sha256: "6c80cbd0612447421fa02ad92f4207da2cd019a14d94885dfccac1aadc57926a"
   "4.10.1":
     url: "https://github.com/Immediate-Mode-UI/Nuklear/archive/refs/tags/4.10.1.tar.gz"
     sha256: "a7bd28477e00be6768e9b8cc3a406bc67b2d32d3a023b1e44868e8c566a7eb2f"
