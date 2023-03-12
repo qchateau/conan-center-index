@@ -1,4 +1,7 @@
 sources:
+  "2.76.0":
+    url: "https://download.gnome.org/sources/glibmm/2.76/glibmm-2.76.0.tar.xz"
+    sha256: "8637d80ceabd94fddd6e48970a082a264558d4ab82684e15ffc87e7ef3462ab2"
   "2.75.0":
     url: "https://download.gnome.org/sources/glibmm/2.75/glibmm-2.75.0.tar.xz"
     sha256: "60bb12e66488aa8ce41f0eb2f3612f89f5ddc887e3e4d45498524bf60b266b3d"
@@ -10,6 +13,13 @@ sources:
     sha256: "199ace5682d81b15a1d565480b4a950682f2db6402c8aa5dd7217d71edff81d5"
 
 patches:
+  "2.76.0":
+    - patch_file: "patches/enable_static_libs_2_75_0.patch"
+      patch_type: portability
+      patch_description: enable static library build for msvc
+    - patch_file: "patches/fix_initialization_order_fiasco_2_75_0.patch"
+      patch_type: bugfix
+      patch_description: fix initialization order for static library
   "2.75.0":
     - patch_file: "patches/enable_static_libs_2_75_0.patch"
       patch_type: portability
