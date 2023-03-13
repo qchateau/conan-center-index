@@ -1,4 +1,7 @@
 sources:
+  "2.5.0":
+    url: "https://github.com/Tradias/asio-grpc/archive/v2.5.0.tar.gz"
+    sha256: "e4d8cfab235a3b2510807dfd9fab04da4538df76b9feb0e7398295186b520dbc"
   "2.4.0":
     url: "https://github.com/Tradias/asio-grpc/archive/refs/tags/v2.4.0.tar.gz"
     sha256: "d71de4f8de91dc0ad44d6a161fc628496b80622a6f9030dcd4c53b516629b8b7"
