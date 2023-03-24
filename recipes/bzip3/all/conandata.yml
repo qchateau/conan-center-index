@@ -1,4 +1,7 @@
 sources:
+  "1.2.3":
+    url: "https://github.com/kspalaiologos/bzip3/archive/1.2.3.tar.gz"
+    sha256: "13824ea1f48fca15b933862f5071c718c1764bddd2ef0abce5d47308c08b2500"
   "1.2.2":
     url: "https://github.com/kspalaiologos/bzip3/archive/1.2.2.tar.gz"
     sha256: "e7792f3c83f1d9efd0d7b18da2eb6a1f119ffcdeb5515cf441145c2e9b72652e"
