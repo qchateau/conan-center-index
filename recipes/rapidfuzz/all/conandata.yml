@@ -1,4 +1,7 @@
 sources:
+  "1.11.2":
+    url: "https://github.com/maxbachmann/rapidfuzz-cpp/archive/v1.11.2.tar.gz"
+    sha256: "81c8c9527b9e06551c30099d33a77221ff92f07823765f2dcb104b521a80c702"
   "1.10.4":
     url: "https://github.com/maxbachmann/rapidfuzz-cpp/archive/refs/tags/v1.10.4.tar.gz"
     sha256: "84a1ea8759aaa5bc8587c26504421d6fd34ad2a8dc74bf469b0cc3cc6758e17a"
