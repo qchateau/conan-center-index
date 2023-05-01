@@ -1,4 +1,7 @@
 sources:
+  "1.1.7":
+    url: "https://github.com/boost-ext/sml/archive/v1.1.7.tar.gz"
+    sha256: "be9c3ee56034aa13959c4d985b837e100845cae73b29670321ccd212a772211c"
   "1.1.6":
     url: "https://github.com/boost-ext/sml/archive/refs/tags/v1.1.6.tar.gz"
     sha256: "08a6d80eb9aa6ee4e462c1b802b9d7db8a39758746565f13cc4d2459ed49a29e"
