@@ -1,4 +1,7 @@
 sources:
+  "0.77.0":
+    url: "https://github.com/uncrustify/uncrustify/archive/uncrustify-0.77.0.tar.gz"
+    sha256: "d48828e7a2bbf6de0813807ad679c256680299102915f2943e60bb2152120d8f"
   "0.75.1":
     url: "https://github.com/uncrustify/uncrustify/archive/refs/tags/uncrustify-0.75.1.tar.gz"
     sha256: "fd14acc0a31ed88b33137bdc26d32964327488c835f885696473ef07caf2e182"
