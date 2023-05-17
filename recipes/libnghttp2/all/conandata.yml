@@ -1,4 +1,7 @@
 sources:
+  "1.53.0":
+    url: "https://github.com/nghttp2/nghttp2/archive/v1.53.0.tar.gz"
+    sha256: "40fc7edc8c5fed251fc4d3fa172e392913663b03630afce487d13daa351e077e"
   "1.51.0":
     url: "https://github.com/nghttp2/nghttp2/releases/download/v1.51.0/nghttp2-1.51.0.tar.xz"
     sha256: "66aa76d97c143f42295405a31413e5e7d157968dad9f957bb4b015b598882e6b"
