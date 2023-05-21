@@ -1,4 +1,7 @@
 sources:
+  "4.13.0":
+    url: "https://github.com/antlr/antlr4/archive/4.13.0.tar.gz"
+    sha256: "b7082b539256e6de5137a7d57afe89493dce234a3ce686dbae709ef6cf2d2c81"
   "4.12.0":
     url: "https://github.com/antlr/antlr4/archive/refs/tags/4.12.0.tar.gz"
     sha256: "8b6050a2111a6bb6405cc5e9e7bca80c136548ac930e4b2c27566d1eb32f8aed"
@@ -14,29 +17,35 @@ sources:
 patches:
   "4.11.1":
     - patch_file: "patches/0002-update-FlatHashSet.patch"
-      patch_description: "Fix the compiler errors reported by GCC 7 due to the new type FlatHashSet introduced in 4.11."
+      patch_description: "Fix the compiler errors reported by GCC 7 due to the new\
+        \ type FlatHashSet introduced in 4.11."
       patch_type: "portability"
       patch_source: "https://github.com/antlr/antlr4/pull/3885"
     - patch_file: "patches/0003-update-FlatHashMap.patch"
-      patch_description: "Fix the compiler errors reported by GCC 7 due to the new type FlatHashMap introduced in 4.11."
+      patch_description: "Fix the compiler errors reported by GCC 7 due to the new\
+        \ type FlatHashMap introduced in 4.11."
       patch_type: "portability"
       patch_source: "https://github.com/antlr/antlr4/pull/3885"
   "4.10.1":
     - patch_file: "patches/0004-update-DropLibuuid-4.10.x-1.patch"
-      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid (#1) which is not used since 4.9."
+      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid\
+        \ (#1) which is not used since 4.9."
       patch_type: "backport"
       patch_source: "https://github.com/antlr/antlr4/pull/3787"
     - patch_file: "patches/0004-update-DropLibuuid-4.10.x-2.patch"
-      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid (#2) which is not used since 4.9."
+      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid\
+        \ (#2) which is not used since 4.9."
       patch_type: "backport"
       patch_source: "https://github.com/antlr/antlr4/pull/3787"
   "4.9.3":
     - patch_file: "patches/0001-update-cmakelist.patch"
     - patch_file: "patches/0004-update-DropLibuuid-4.9.3-1.patch"
-      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid (#1) which is not used since 4.9."
+      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid\
+        \ (#1) which is not used since 4.9."
       patch_type: "backport"
       patch_source: "https://github.com/antlr/antlr4/pull/3787"
     - patch_file: "patches/0004-update-DropLibuuid-4.9.3-2.patch"
-      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid (#2) which is not used since 4.9."
+      patch_description: "Revise the CMakeLists.txt to remove the dependency on libuuid\
+        \ (#2) which is not used since 4.9."
       patch_type: "backport"
       patch_source: "https://github.com/antlr/antlr4/pull/3787"
