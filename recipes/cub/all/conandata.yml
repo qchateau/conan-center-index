@@ -1,4 +1,7 @@
 sources:
+  "22.1":
+    url: "https://github.com/NVIDIA/cub/archive/nvhpc-22.1.tar.gz"
+    sha256: "97819f460de66c7b9d32318ef63eda618feaf04c45264c5e9f022aa84ae6b12f"
   "1.17.2":
     url: "https://github.com/NVIDIA/cub/archive/refs/tags/1.17.2.tar.gz"
     sha256: "1013a595794548c359f22c07e1f8c620b97e3a577f7e8496d9407f74566a3e2a"
