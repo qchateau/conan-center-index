@@ -11,6 +11,9 @@ sources:
   "1.4.4":
     url: "https://github.com/Haivision/srt/archive/v1.4.4.tar.gz"
     sha256: "93f5f3715bd5bd522b8d65fc0d086ef2ad49db6a41ad2d7b35df2e8bd7094114"
+  "1.5.2":
+    url: "https://github.com/Haivision/srt/archive/v1.5.2.tar.gz"
+    sha256: "463970a3f575446b3f55abb6f323d5476c963c77b3c975cd902e9c87cdd9a92c"
 patches:
   "1.4.1":
     - patch_file: "patches/no-delayload-libeay32.patch"
