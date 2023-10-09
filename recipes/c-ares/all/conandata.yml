@@ -1,4 +1,7 @@
 sources:
+  "1.20.1":
+    url: "https://github.com/c-ares/c-ares/archive/cares-1_20_1.tar.gz"
+    sha256: "12db8d5d86c5117a7eca3d8f55090d42b01fc9b1bce08f6862d77df96ab21f54"
   "1.19.1":
     url: "https://github.com/c-ares/c-ares/releases/download/cares-1_19_1/c-ares-1.19.1.tar.gz"
     sha256: "321700399b72ed0e037d0074c629e7741f6b2ec2dda92956abe3e9671d3e268e"
