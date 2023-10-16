@@ -1,4 +1,7 @@
 sources:
+  "4.2.0":
+    url: "https://github.com/borglab/gtsam/archive/4.2.0.tar.gz"
+    sha256: "8b44d6b98a3b608664d1c9a7c1383a406550499d894533bb0183e6cf487e6457"
   "4.2":
     url: "https://github.com/borglab/gtsam/archive/refs/tags/4.2.tar.gz"
     sha256: "9ff8846d0a83a245c284cb5760ec2d74535ef9b5885183ccfefd7ff122eba60e"
@@ -9,6 +12,16 @@ sources:
     url: "https://github.com/borglab/gtsam/archive/4.0.3.tar.gz"
     sha256: "eaa561749edf7a2d402981828253e28aed6c717dae35738301c5ab23e2595f25"
 patches:
+  "4.2.0":
+    - patch_file: "patches/4.1.1-0001-cmake-boost.patch"
+      patch_description: "Use boost targets"
+      patch_type: "conan"
+    - patch_file: "patches/4.2.0-0001-macos-rpath.patch"
+      patch_description: "Relocatable shared libs on Apple OS"
+      patch_type: "conan"
+    - patch_file: "patches/4.2.0-0002-eigen3-version.patch"
+      patch_description: "Get Eigen3 version info from Conan"
+      patch_type: "conan"
   "4.2":
     - patch_file: "patches/4.1.1-0001-cmake-boost.patch"
       patch_description: "Use boost targets"
