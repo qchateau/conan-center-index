@@ -1,4 +1,7 @@
 sources:
+  "12.3":
+    url: "https://github.com/NVIDIA/cuda-samples/archive/v12.3.tar.gz"
+    sha256: "be50fe1ae8b3dbe3ead608fa14c5e78649cad45acfd7e3a61f4d16004b19fb8d"
   "12.2":
     url: "https://github.com/NVIDIA/cuda-samples/archive/refs/tags/v12.2.tar.gz"
     sha256: "c9fbdee420fd4567edb1239420e2a5c93d9652b4ccf3a828fcb3e0de3152e466"
