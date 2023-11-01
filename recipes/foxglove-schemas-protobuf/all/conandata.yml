@@ -1,4 +1,7 @@
 sources:
+  "3.0.0":
+    url: "https://github.com/foxglove/schemas/archive/ros-v3.0.0.tar.gz"
+    sha256: "b06dc3d046e995944ae54ed7aa779ef08d009a78a5317b22473e0b0f83d8d8e4"
   0.1.0:
     url: https://github.com/foxglove/schemas/archive/refs/tags/releases/python/foxglove-schemas-protobuf/v0.1.0.tar.gz
     sha256: 42153b62000c0c614301ecd2b9173c69f467dd543db3328a1b0491bce8ee5594
