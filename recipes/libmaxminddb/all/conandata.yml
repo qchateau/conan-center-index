@@ -1,4 +1,7 @@
 sources:
+  "1.8.0":
+    url: "https://github.com/maxmind/libmaxminddb/archive/1.8.0.tar.gz"
+    sha256: "7fcf9190fc8338d7a877b433dd8fc09ee07724dc4d1dc17e6ca11df79c47f6a9"
   "1.7.1":
     url: "https://github.com/maxmind/libmaxminddb/releases/download/1.7.1/libmaxminddb-1.7.1.tar.gz"
     sha256: "e8414f0dedcecbc1f6c31cb65cd81650952ab0677a4d8c49cab603b3b8fb083e"
