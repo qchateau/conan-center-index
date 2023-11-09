@@ -1,4 +1,7 @@
 sources:
+  "0.4.1.390":
+    url: "https://github.com/abbyssoul/libsolace/archive/v0.4.1.390c309.tar.gz"
+    sha256: "ad1e5113a89fd4a9734892f09089c75fa21414111133ba16865979b5c910ac2b"
   "0.4.1":
     url: "https://github.com/abbyssoul/libsolace/archive/v0.4.1.zip"
     sha256: "56d91ff180223322e0a93d62eb9f3974555f085d8e4e6e8435708d2bed0dfa0e"
