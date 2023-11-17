@@ -1,4 +1,7 @@
 sources:
+  "0.9.10":
+    url: "https://github.com/awslabs/aws-c-common/archive/v0.9.10.tar.gz"
+    sha256: "92ac6d7183cf820f78a73f74773c674f743a947c564c1ea4930e18bd20461108"
   "0.9.6":
     url: "https://github.com/awslabs/aws-c-common/archive/v0.9.6.tar.gz"
     sha256: "5c30cc066a7f05fb8e4728f93aeed0e0e2698197a6df76237ac4e1200977d090"
@@ -26,7 +29,8 @@ sources:
 patches:
   "0.4.25":
     - patch_file: "patches/0001-disable-fPIC.patch"
-      patch_description: "Don't enable position independent code (will be handled by conan)"
+      patch_description: "Don't enable position independent code (will be handled\
+        \ by conan)"
       patch_type: "conan"
     - patch_file: "patches/0002-no-warnings-as-errors.patch"
       patch_description: "Don't make all warnings into errors"
