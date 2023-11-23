@@ -1,4 +1,7 @@
 sources:
+  "1.13.1":
+    url: "https://github.com/webmproject/libvpx/archive/v1.13.1.tar.gz"
+    sha256: "00dae80465567272abd077f59355f95ac91d7809a2d3006f9ace2637dd429d14"
   "1.11.0":
     url: "https://github.com/webmproject/libvpx/archive/v1.11.0.tar.gz"
     sha256: "965e51c91ad9851e2337aebcc0f517440c637c506f3a03948062e3d5ea129a83"
@@ -9,6 +12,10 @@ sources:
     url: "https://github.com/webmproject/libvpx/archive/v1.9.0.tar.gz"
     sha256: "d279c10e4b9316bf11a570ba16c3d55791e1ad6faa4404c67422eb631782c80a"
 patches:
+  "1.13.1":
+    - patch_file: "patches/0001-extended-support-1.10.0.patch"
+      patch_type: "portability"
+      patch_description: "Add support for more compilers"
   "1.11.0":
     - patch_file: "patches/0001-extended-support-1.10.0.patch"
       patch_type: "portability"
