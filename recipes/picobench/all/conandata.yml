@@ -1,4 +1,7 @@
 sources:
+  "2.06":
+    url: "https://github.com/iboB/picobench/archive/v2.06.tar.gz"
+    sha256: "2f5d9b53260322b422a1834bbbe4947109039ee518353a8cc8dd57bbd1999b57"
   "2.05":
     url: "https://github.com/iboB/picobench/archive/v2.05.tar.gz"
     sha256: "4e10c3c7042c0519662565eed8949f5eb328333d2c9a2443464dede04ce0b00d"
@@ -9,6 +12,10 @@ sources:
     url: "https://github.com/iboB/picobench/archive/refs/tags/v2.01.tar.gz"
     sha256: "164cb3b2d72a9b31e7559f6829ae38b6b955840571531117e0d6f53d669d3a2b"
 patches:
+  "2.06":
+    - patch_file: "patches/2.02-0001-add-install.patch"
+      patch_description: "add installer"
+      patch_type: "conan"
   "2.05":
     - patch_file: "patches/2.02-0001-add-install.patch"
       patch_description: "add installer"
