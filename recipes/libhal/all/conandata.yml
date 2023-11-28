@@ -1,4 +1,7 @@
 sources:
+  "2.0.3":
+    url: "https://github.com/libhal/libhal/archive/2.0.3.tar.gz"
+    sha256: "5fa903cec287351eec37ff2c97c8bab46d0d800bc0e144ab912320dd00eeb1f5"
   "2.0.2":
     url: "https://github.com/libhal/libhal/archive/refs/tags/2.0.2.tar.gz"
     sha256: "bb69fffbff58ac9a91f71636422d81a4426fe70c3b47ca9b07c87fb074c989dc"
