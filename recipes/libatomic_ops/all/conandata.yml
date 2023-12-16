@@ -1,4 +1,7 @@
 sources:
+  "7.8.2":
+    url: "https://github.com/ivmai/libatomic_ops/archive/v7.8.2.tar.gz"
+    sha256: "ad8428a40e01d41bc4ddad3166afa1fc175c9e58d8ef7ddbd7ef3298e32ac37b"
   "7.8.0":
     url: "https://github.com/ivmai/libatomic_ops/releases/download/v7.8.0/libatomic_ops-7.8.0.tar.gz"
     sha256: "15676e7674e11bda5a7e50a73f4d9e7d60452271b8acf6fd39a71fefdf89fa31"
