@@ -1,4 +1,7 @@
 sources:
+  "3.2.10":
+    url: "https://github.com/SanderMertens/flecs/archive/v3.2.10.tar.gz"
+    sha256: "b799e85d47b3e5c2e631ebbd3b81cc6af4be574fccbe07099c58252182827a88"
   "3.2.8":
     url: "https://github.com/SanderMertens/flecs/archive/refs/tags/v3.2.8.tar.gz"
     sha256: "b40453a77b66e220408c50b119da54b153c248cf6f7025575e3fd1a8ff79f748"
