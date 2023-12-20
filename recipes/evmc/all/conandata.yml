@@ -1,4 +1,7 @@
 sources:
+  "11.0.1":
+    url: "https://github.com/ethereum/evmc/archive/v11.0.1.tar.gz"
+    sha256: "029979c85f3eecf39c0ebf4ae6f12dcc4eb0f5983bcacf8528dfc48f9a25f21a"
   "11.0.0":
     url: "https://github.com/ethereum/evmc/archive/v11.0.0.tar.gz"
     sha256: "a628ba9062b80540c553e92a44288c696532461ea9c08ef00b2c2a677095727e"
