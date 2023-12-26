@@ -1,4 +1,7 @@
 sources:
+  "7.03":
+    url: "https://github.com/herumi/xbyak/archive/v7.03.tar.gz"
+    sha256: "a1d39637e913cb452fad24517b1a7b271ff698872114d724b441335626088253"
   "7.00":
     url: "https://github.com/herumi/xbyak/archive/v7.00.tar.gz"
     sha256: "9bc479d99bb3bbd30669813ca9719126fe93ab1bae857bd799d2b16a1fcb4c32"
