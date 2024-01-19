@@ -1,4 +1,7 @@
 sources:
+  "1.0.4":
+    url: "https://github.com/KDAB/KDBindings/archive/v1.0.4.tar.gz"
+    sha256: "84399d02a7658ecf85ecbfd75aa81c3306e14faa9792f726d846149e6966e17b"
   "1.0.3":
     url: "https://github.com/KDAB/KDBindings/archive/refs/tags/v1.0.3.tar.gz"
     sha256: "da8de679d12bf123df6a3c63a482a862d4122a2f3d3567c9b3b2fc2c4f574393"
