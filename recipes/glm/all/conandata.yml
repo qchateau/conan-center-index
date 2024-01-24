@@ -20,3 +20,6 @@ sources:
   "0.9.5.4":
     url: "https://github.com/g-truc/glm/releases/download/0.9.5.4/glm-0.9.5.4.zip"
     sha256: "c25002f109104bb8eb37a7e74c745cbc0a713ec5d9a857050c7878edb5ee246c"
+  "1.0.0":
+    url: "https://github.com/g-truc/glm/archive/1.0.0.tar.gz"
+    sha256: "e51f6c89ff33b7cfb19daafb215f293d106cd900f8d681b9b1295312ccadbd23"
