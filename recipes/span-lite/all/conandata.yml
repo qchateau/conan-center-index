@@ -26,3 +26,6 @@ sources:
   "0.10.3":
     url: "https://github.com/martinmoene/span-lite/archive/v0.10.3.tar.gz"
     sha256: "04ac8148760369f11d4cdbc7969d66cb3d372357b6b5c7744841a60551ccb50b"
+  "0.11.0":
+    url: "https://github.com/martinmoene/span-lite/archive/v0.11.0.tar.gz"
+    sha256: "ef4e028e18ff21044da4b4641ca1bc8a2e2d656e2028322876c0e1b9b6904f9d"
