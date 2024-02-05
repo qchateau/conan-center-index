@@ -1,4 +1,7 @@
 sources:
+  "7.0.3":
+    url: "https://github.com/bblanchon/ArduinoJson/archive/v7.0.3.tar.gz"
+    sha256: "6da2d069e0caa0c829444912ee13e78bdf9cc600be632428a164c92e69528000"
   "7.0.1":
     url: "https://github.com/bblanchon/ArduinoJson/archive/refs/tags/v7.0.1.tar.gz"
     sha256: "85fd778a6aae9b1a249b4c090c6f8621c9c8ceaf9479a3cb07e3033325bf2ae2"
