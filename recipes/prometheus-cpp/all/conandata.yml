@@ -1,4 +1,7 @@
 sources:
+  "1.2.2":
+    url: "https://github.com/jupp0r/prometheus-cpp/archive/v1.2.2.tar.gz"
+    sha256: "41ee3926ec3fc60e7c5be6d37c61842f03a752fb1149c23c54c6267ef0142474"
   "1.1.0":
     url: "https://github.com/jupp0r/prometheus-cpp/archive/v1.1.0.tar.gz"
     sha256: "397544fe91e183029120b4eebcfab24ed9ec833d15850aae78fd5db19062d13a"
