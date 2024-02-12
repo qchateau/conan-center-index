@@ -1,4 +1,7 @@
 sources:
+  "1.5.8":
+    url: "https://github.com/pyomeca/ezc3d/archive/Release_1.5.8.tar.gz"
+    sha256: "1b94da2491d6fb223e4d945451c8b6a192bfa06351eb4b59e49d82770453cb5f"
   "1.5.5":
     url: "https://github.com/pyomeca/ezc3d/archive/refs/tags/Release_1.5.5.tar.gz"
     sha256: "93641b100f982d4297a8cee9bb06b2c1facddfca638cde8259e783174a5f68ca"
