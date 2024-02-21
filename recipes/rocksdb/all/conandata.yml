@@ -11,6 +11,9 @@ sources:
   "8.8.1":
     url: "https://github.com/facebook/rocksdb/archive/refs/tags/v8.8.1.tar.gz"
     sha256: "056c7e21ad8ae36b026ac3b94b9d6e0fcc60e1d937fc80330921e4181be5c36e"
+  "8.10.2":
+    url: "https://github.com/facebook/rocksdb/archive/v8.10.2.tar.gz"
+    sha256: "44b6ec2f4723a0d495762da245d4a59d38704e0d9d3d31c45af4014bee853256"
 patches:
   "6.29.5":
     - patch_file: "patches/6.29.5-0001-add-include-cstdint-for-gcc-13.patch"
