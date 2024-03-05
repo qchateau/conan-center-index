@@ -1,4 +1,7 @@
 sources:
+  "0.380":
+    url: "https://github.com/vcrhonek/hwdata/archive/v0.380.tar.gz"
+    sha256: "e5ca061d9e0b9b177bed8d16f94b4cd54ce9eebd1ec115f7cf2174d3a6052049"
   "0.378":
     url: "https://github.com/vcrhonek/hwdata/archive/v0.378.tar.gz"
     sha256: "098ea8db12a50290f4b23f7f521edf9c5bab25935d2740de17e4a487110b40c8"
