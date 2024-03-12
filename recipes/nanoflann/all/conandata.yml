@@ -1,4 +1,7 @@
 sources:
+  "1.5.5":
+    url: "https://github.com/jlblancoc/nanoflann/archive/v1.5.5.tar.gz"
+    sha256: "fd28045eabaf0e7f12236092f80905a1750e0e6b580bb40eadd64dc4f75d641d"
   "1.5.2":
     url: "https://github.com/jlblancoc/nanoflann/archive/v1.5.2.tar.gz"
     sha256: "2adcea7821445119a7a4f83c27abd56dba963e1e9c05a3f58bdb2273ae1b4698"
