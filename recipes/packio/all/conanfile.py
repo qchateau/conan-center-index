@@ -86,7 +86,7 @@ class PackioConan(ConanFile):
             if scm.Version(self.settings.compiler.version) < minimum_version:
                 raise ConanInvalidConfiguration("packio requires C++17, which your compiler does not support.")
         else:
-            self.output.warn("packio requires C++17. Your compiler is unknown. Assuming it supports C++17.")
+            self.output.warning("packio requires C++17. Your compiler is unknown. Assuming it supports C++17.")
 
     def package(self):
         self.copy("LICENSE.md", dst="licenses", src=self._source_subfolder)
