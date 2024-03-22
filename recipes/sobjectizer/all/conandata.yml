@@ -39,3 +39,6 @@ sources:
   "5.8.1":
     url: "https://github.com/Stiffstream/sobjectizer/archive/v.5.8.1.tar.gz"
     sha256: "2d6a1d57ecb1263d00460fd2dbf386e7323ab8643d10667d1646c3bbc91ef764"
+  "5.8.2":
+    url: "https://github.com/Stiffstream/sobjectizer/archive/v.5.8.2.tar.gz"
+    sha256: "da28d7b5fa6d8d6f3edd9734ee0d8a433c765ed7060b69be3327e6764db50a35"
