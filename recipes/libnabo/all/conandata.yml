@@ -1,4 +1,7 @@
 sources:
+  "1.1.1":
+    url: "https://github.com/ethz-asl/libnabo/archive/1.1.1.tar.gz"
+    sha256: "903c78ed8fc765e053836c93e8f08f97ee3b19f79f9d23b76369434c337aa113"
   "1.1.0":
     url: "https://github.com/ethz-asl/libnabo/archive/refs/tags/1.1.0.tar.gz"
     sha256: "b69aa15cfe6baf77ae20eadd5ada9f71c725895a8983b72afb0439a1308dea5a"
@@ -6,6 +9,10 @@ sources:
     url: "https://github.com/ethz-asl/libnabo/archive/refs/tags/1.0.7.tar.gz"
     sha256: "817f43ba77668a7fab2834e78f0a9ff80e294d69c9818142084a32040547d10a"
 patches:
+  "1.1.1":
+    - patch_file: "patches/1.1.0-0001-fix-cmake.patch"
+      patch_description: "use cci's eigen, disable fPIC on static build"
+      patch_type: "conan"
   "1.1.0":
     - patch_file: "patches/1.1.0-0001-fix-cmake.patch"
       patch_description: "use cci's eigen, disable fPIC on static build"
