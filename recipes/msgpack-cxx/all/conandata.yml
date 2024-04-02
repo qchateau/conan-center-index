@@ -1,4 +1,7 @@
 sources:
+  "6.1.1":
+    url: "https://github.com/msgpack/msgpack-c/archive/cpp-6.1.1.tar.gz"
+    sha256: "d7b119f292365d41403b41b40c2fefd82ebd81241e3c658fafe0e638fa54604a"
   "6.1.0":
     url: "https://github.com/msgpack/msgpack-c/releases/download/cpp-6.1.0/msgpack-cxx-6.1.0.tar.gz"
     sha256: "23ede7e93c8efee343ad8c6514c28f3708207e5106af3b3e4969b3a9ed7039e7"
