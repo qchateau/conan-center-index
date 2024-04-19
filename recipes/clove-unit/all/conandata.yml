@@ -1,4 +1,7 @@
 sources:
+  "2.4.3":
+    url: "https://github.com/fdefelici/clove-unit/archive/v.2.4.3.tar.gz"
+    sha256: "cb1c5af64d18d5fc9bc2d700f93ea23188774d60b24d8b75aaa1e0a728dd28e2"
   "2.4.1":
     url: "https://github.com/fdefelici/clove-unit/archive/v2.4.1.tar.gz"
     sha256: ede833e361b5b62052bd0976386307d1d962c7ab20a0e24eb6e970d409c726fe
