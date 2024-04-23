@@ -1,4 +1,7 @@
 sources:
+  "3.1.58":
+    url: "https://github.com/emscripten-core/emsdk/archive/3.1.58.tar.gz"
+    sha256: "6d860f7ae4bd16bfc18f732200e6608cb2aa739f2ddf9c522755cb0d4037f025"
   "3.1.50":
     url: "https://github.com/emscripten-core/emsdk/archive/3.1.50.tar.gz"
     sha256: "7491a881eb5ee15fe81bbabcfff1fd571e45ccdb24a81890af429f9970cbd1f3"
