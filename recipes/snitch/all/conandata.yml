@@ -1,4 +1,7 @@
 sources:
+  "1.2.5":
+    url: "https://github.com/snitch-org/snitch/archive/v1.2.5.tar.gz"
+    sha256: "87be73638ebf14667ef7dd9e6372faa7ad4fa9b2c6367c844f733469680469a2"
   "1.2.3":
     url: "https://github.com/snitch-org/snitch/archive/refs/tags/v1.2.3.zip"
     sha256: "f2649e716b612f3dbb5f109b7250be80e2d7e43c7827034a270bd1ca91eafb12"
