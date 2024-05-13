@@ -1,4 +1,7 @@
 sources:
+  "4.4.22":
+    url: "https://github.com/eyalz800/zpp_bits/archive/v4.4.22.tar.gz"
+    sha256: "52500a46f51fcba26a4b868e56a7b618050d1a66a577de53f6598359c8684011"
   "4.4.20":
     url: "https://github.com/eyalz800/zpp_bits/archive/v4.4.20.tar.gz"
     sha256: "13023d3752392d64f89113bf8099a2a50b2602a7e26a2fdf78a27e327104819c"
