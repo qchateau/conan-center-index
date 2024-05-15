@@ -1,6 +1,9 @@
 sources:
   # The release tarball is invalid, so we need to get the tarball from the v0.20.0 commit.
   # https://github.com/objectbox/objectbox-c/issues/38
+  "4.0.0":
+    url: "https://github.com/objectbox/objectbox-c/archive/v4.0.0.tar.gz"
+    sha256: "1cd1f0633290395a7cacace484485197562f38ec85ac6cc3b3a1bceae430c615"
   "0.21.0":
     url: "https://github.com/objectbox/objectbox-c/archive/720559838e78a9fe6252c93ed1a3d46a1025767f.tar.gz"
     sha256: "a2e7aa1d455a9703c49661515e820b4b296b6f53da7ab6b467b78776a29b0b93"
@@ -20,27 +23,38 @@ sources:
     url: "https://github.com/objectbox/objectbox-c/archive/refs/tags/v0.17.0.tar.gz"
     sha256: "3b936b3352ae0c8ea3706cc0a1790d2714a415cdce16007c2caca367ead5af8d"
 patches:
+  "4.0.0":
+    - patch_file: "patches/0.21.0-0001-fix-cmake.patch"
+      patch_description: "add sync option, disable tests/examples, support max length\
+        \ of windows path"
+      patch_type: "conan"
   "0.21.0":
     - patch_file: "patches/0.21.0-0001-fix-cmake.patch"
-      patch_description: "add sync option, disable tests/examples, support max length of windows path"
+      patch_description: "add sync option, disable tests/examples, support max length\
+        \ of windows path"
       patch_type: "conan"
   "0.20.0":
     - patch_file: "patches/0.17.0-0001-fix-cmake.patch"
-      patch_description: "add sync option, disable tests/examples, support max length of windows path"
+      patch_description: "add sync option, disable tests/examples, support max length\
+        \ of windows path"
       patch_type: "conan"
   "0.19.0":
     - patch_file: "patches/0.17.0-0001-fix-cmake.patch"
-      patch_description: "add sync option, disable tests/examples, support max length of windows path"
+      patch_description: "add sync option, disable tests/examples, support max length\
+        \ of windows path"
       patch_type: "conan"
   "0.18.1":
     - patch_file: "patches/0.17.0-0001-fix-cmake.patch"
-      patch_description: "add sync option, disable tests/examples, support max length of windows path"
+      patch_description: "add sync option, disable tests/examples, support max length\
+        \ of windows path"
       patch_type: "conan"
   "0.18.0":
     - patch_file: "patches/0.17.0-0001-fix-cmake.patch"
-      patch_description: "add sync option, disable tests/examples, support max length of windows path"
+      patch_description: "add sync option, disable tests/examples, support max length\
+        \ of windows path"
       patch_type: "conan"
   "0.17.0":
     - patch_file: "patches/0.17.0-0001-fix-cmake.patch"
-      patch_description: "add sync option, disable tests/examples, support max length of windows path"
+      patch_description: "add sync option, disable tests/examples, support max length\
+        \ of windows path"
       patch_type: "conan"
