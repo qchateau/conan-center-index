@@ -11,3 +11,6 @@ sources:
   "1.0.9":
     url: "https://github.com/vsg-dev/VulkanSceneGraph/archive/v1.0.9.tar.gz"
     sha256: "9a62be7facc13c391c33dc8356b147a3b86f531ea72a28f6b2c364777e761412"
+  "1.1.4":
+    url: "https://github.com/vsg-dev/VulkanSceneGraph/archive/v1.1.4.tar.gz"
+    sha256: "fd64a19f8b831df5ca2ba1e8785dd9936e0f6b61693952dc4446567640a15191"
