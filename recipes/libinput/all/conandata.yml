@@ -1,4 +1,7 @@
 sources:
+  "1.26.0":
+    url: "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.26.0/libinput-1.26.0.tar.gz"
+    sha256: "bda944e6d60741432e10f29001c3326ee8aba2968787f78611f420f90580bd8b"
   "1.25.0":
     url: "https://gitlab.freedesktop.org/libinput/libinput/-/archive/1.25.0/libinput-1.25.0.tar.bz2"
     sha256: "193bd592298bd9e369c0ef3e5d83a6a9d68ddc4cd3dfc84bbe77920a8d0d57df"
