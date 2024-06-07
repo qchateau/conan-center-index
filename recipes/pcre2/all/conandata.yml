@@ -1,4 +1,7 @@
 sources:
+  "10.44":
+    url: "https://github.com/PCRE2Project/pcre2/archive/pcre2-10.44.tar.gz"
+    sha256: "07a002e8216382a96f722bc4a831f3d77457fe3e9e62a6dff250a2dd0e9c5e6d"
   "10.43":
     url: "https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.43/pcre2-10.43.tar.bz2"
     sha256: "e2a53984ff0b07dfdb5ae4486bbb9b21cca8e7df2434096cc9bf1b728c350bcb"
