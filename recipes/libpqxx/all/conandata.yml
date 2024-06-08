@@ -1,4 +1,7 @@
 sources:
+  "7.9.1":
+    url: "https://github.com/jtv/libpqxx/archive/7.9.1.tar.gz"
+    sha256: "4fafd63009b1d6c2b64b8c184c04ae4d1f7aa99d8585154832d28012bae5b0b6"
   "7.9.0":
     url: "https://github.com/jtv/libpqxx/archive/refs/tags/7.9.0.tar.gz"
     sha256: "a1fafd5f6455f6c66241fca1f35f5cb603251580b99f9a0cf1b5d0a586006f16"
@@ -27,6 +30,10 @@ sources:
     url: "https://github.com/jtv/libpqxx/archive/6.4.8.tar.gz"
     sha256: "3f7aba951822e01f1b9f9f353702954773323dd9f9dc376ffb57cb6bbd9a7a2f"
 patches:
+  "7.9.1":
+    - patch_file: "patches/0001-cmake-fix-module.patch"
+      patch_description: "Keep `CMAKE_MODULE_PATH` to be changed by conan."
+      patch_type: "conan"
   "7.9.0":
     - patch_file: "patches/0001-cmake-fix-module.patch"
       patch_description: "Keep `CMAKE_MODULE_PATH` to be changed by conan."
@@ -53,7 +60,8 @@ patches:
       patch_type: "conan"
     - patch_file: "patches/fix-inline-constexpr-local-variable-problem-7.6.0.patch"
       patch_source: "https://github.com/jtv/libpqxx/pull/468"
-      patch_description: "Fixed a problem that some compilers did not allow `inline constexpr` local variable declarations."
+      patch_description: "Fixed a problem that some compilers did not allow `inline\
+        \ constexpr` local variable declarations."
       patch_type: "bugfix"
     - patch_file: "patches/fix-remove-unlikely-annotation-before-return-7.6.0_to_7.6.1.patch"
       patch_source: "https://github.com/jtv/libpqxx/pull/476"
@@ -69,7 +77,8 @@ patches:
       patch_type: "conan"
     - patch_file: "patches/stop-using-strnlen-7.4.2.patch"
       patch_source: "https://github.com/jtv/libpqxx/commit/df30e186e148acb031244ed0ab1151731d3501a4"
-      patch_description: "Fix MSVC 2022 compile error: '<': no operator found which takes a right-hand operand of type 'std::_String_view_iterator<_Traits>'"
+      patch_description: "Fix MSVC 2022 compile error: '<': no operator found which\
+        \ takes a right-hand operand of type 'std::_String_view_iterator<_Traits>'"
       patch_type: "bugfix"
   "7.3.2":
     - patch_file: "patches/0001-cmake-fix-module.patch"
@@ -81,7 +90,8 @@ patches:
       patch_type: "bugfix"
     - patch_file: "patches/stop-using-strnlen-7.3.2.patch"
       patch_source: "https://github.com/jtv/libpqxx/commit/df30e186e148acb031244ed0ab1151731d3501a4"
-      patch_description: "Fix MSVC 2022 compile error: '<': no operator found which takes a right-hand operand of type 'std::_String_view_iterator<_Traits>'"
+      patch_description: "Fix MSVC 2022 compile error: '<': no operator found which\
+        \ takes a right-hand operand of type 'std::_String_view_iterator<_Traits>'"
       patch_type: "bugfix"
   "6.4.8":
     - patch_file: "patches/0001-cmake-fix-module-6.4.8.patch"
