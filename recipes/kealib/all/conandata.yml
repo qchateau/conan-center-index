@@ -1,4 +1,7 @@
 sources:
+  "1.5.3":
+    url: "https://github.com/ubarsc/kealib/archive/kealib-1.5.3.tar.gz"
+    sha256: "1cfbeb0cf1d116a8839f5eb0ea5787d9701366f21614bfc5d91616e8f601982a"
   "1.5.2":
     url: "https://github.com/ubarsc/kealib/archive/refs/tags/kealib-1.5.2.tar.gz"
     sha256: "f16a51007ab7612aa598de6ee2cac0aa4421040894777c8e57cb4a50ea552ab1"
