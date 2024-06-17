@@ -1,4 +1,7 @@
 sources:
+  "1.5.1":
+    url: "https://github.com/dice-group/dice-template-library/archive/v1.5.1.tar.gz"
+    sha256: "f99329ace7ad2c378605defe554c12bbb8828a88eb39ff5d619a7787c9e87d82"
   "1.5.0":
     url: "https://github.com/dice-group/dice-template-library/archive/refs/tags/v1.5.0.tar.gz"
     sha256: "5ab4155097af5674dc9b34d1643db9ea8b30f78d15c1e547c58396ea31068ffd"
