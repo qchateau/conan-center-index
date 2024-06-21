@@ -1,4 +1,7 @@
 sources:
+  "2.2.2":
+    url: "https://github.com/eProsima/Fast-CDR/archive/v2.2.2.tar.gz"
+    sha256: "ae8b78a23c2929f26813d791757d0ef63a5e47e00ccfd3482743af1e837d9556"
   "2.2.0":
     url: "https://github.com/eProsima/Fast-CDR/archive/v2.2.0.tar.gz"
     sha256: "8a75ee3aed59f495e95208050920d2c2146df92f073809505a3bd29011c21f20"
