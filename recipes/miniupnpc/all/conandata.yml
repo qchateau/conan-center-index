@@ -1,4 +1,7 @@
 sources:
+  "2.3.7":
+    url: "https://github.com/miniupnp/miniupnp/archive/miniupnpd_2_3_7.tar.gz"
+    sha256: "bbcada94edb0ae6340533cac4633f7a36a515c81bd2815ec0c4e97164c577e8b"
   "2.2.5":
     url: "https://github.com/miniupnp/miniupnp/archive/refs/tags/miniupnpc_2_2_5.tar.gz"
     sha256: "feb2ce11c548115f6e7dead7a523790aceeca92b9fca718f26e5b22303af313c"
