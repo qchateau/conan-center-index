@@ -1,4 +1,7 @@
 sources:
+  "2021.13.0":
+    url: "https://github.com/oneapi-src/oneTBB/archive/v2021.13.0.tar.gz"
+    sha256: "3ad5dd08954b39d113dc5b3f8a8dc6dc1fd5250032b7c491eb07aed5c94133e1"
   "2021.12.0":
     url: "https://github.com/oneapi-src/oneTBB/archive/refs/tags/v2021.12.0.tar.gz"
     sha256: "c7bb7aa69c254d91b8f0041a71c5bcc3936acb64408a1719aec0b2b7639dd84f"
@@ -32,12 +35,14 @@ patches:
       patch_source: "https://github.com/oneapi-src/oneTBB/pull/953.patch"
       patch_file: "patches/android-ndk25.patch"
   "2021.6.0":
-    - patch_description: "cherry-pick upstream patch: avoid android compile errors for current NDKs on releases <= 2021.6.0"
+    - patch_description: "cherry-pick upstream patch: avoid android compile errors\
+        \ for current NDKs on releases <= 2021.6.0"
       patch_type: "portability"
       patch_source: "https://github.com/oneapi-src/oneTBB/pull/716.diff"
       patch_file: "patches/fix-overeager-stripping-of-compile-flag.diff"
   "2021.3.0":
-    - patch_description: "cherry-pick upstream patch: avoid android compile errors for current NDKs on releases <= 2021.6.0"
+    - patch_description: "cherry-pick upstream patch: avoid android compile errors\
+        \ for current NDKs on releases <= 2021.6.0"
       patch_type: "portability"
       patch_source: "https://github.com/oneapi-src/oneTBB/pull/716.diff"
       patch_file: "patches/fix-overeager-stripping-of-compile-flag.diff"
