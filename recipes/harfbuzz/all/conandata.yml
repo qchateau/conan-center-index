@@ -1,4 +1,7 @@
 sources:
+  "9.0.0":
+    url: "https://github.com/harfbuzz/harfbuzz/archive/9.0.0.tar.gz"
+    sha256: "b7e481b109d19aefdba31e9f5888aa0cdfbe7608fed9a43494c060ce1f8a34d2"
   "8.3.0":
     url: "https://github.com/harfbuzz/harfbuzz/releases/download/8.3.0/harfbuzz-8.3.0.tar.xz"
     sha256: "109501eaeb8bde3eadb25fab4164e993fbace29c3d775bcaa1c1e58e2f15f847"
