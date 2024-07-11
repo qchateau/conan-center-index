@@ -1,4 +1,7 @@
 sources:
+  "12.11.0":
+    url: "https://github.com/Azure/azure-sdk-for-cpp/archive/azure-storage-blobs_12.11.0.tar.gz"
+    sha256: "8769c1716b398ff1e5bee354f1efddb46088f8a717c9f535b6a33a2a58e197dc"
   "1.11.3":
     url: "https://github.com/Azure/azure-sdk-for-cpp/archive/refs/tags/azure-core_1.11.3.tar.gz"
     sha256: "c67e42622bf1ebafee29aa09f333e41adc24712b0c993ada5dd97c9265b444cc"
