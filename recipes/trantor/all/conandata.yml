@@ -1,4 +1,7 @@
 sources:
+  "1.5.20":
+    url: "https://github.com/an-tao/trantor/archive/v1.5.20.tar.gz"
+    sha256: "4d3b98c228aafde1001cff581cf8d1a4a9f71f7b2a85a28978b560aefc21c038"
   "1.5.19":
     url: "https://github.com/an-tao/trantor/archive/v1.5.19.tar.gz"
     sha256: "a2f55a98fd4b0737ba0e2cd77d2f237253e607b2047071be04a9ea76587bb608"
@@ -30,6 +33,10 @@ sources:
     url: "https://github.com/an-tao/trantor/archive/v1.5.7.tar.gz"
     sha256: "42576563afbf1e58c7d68f758cf3fca4d193496d4e3f82c80069d8389a7839d5"
 patches:
+  "1.5.20":
+    - patch_file: "patches/1.5.19-0001-disable-werror.patch"
+      patch_description: "disable -Werror for gcc5"
+      patch_type: "portability"
   "1.5.19":
     - patch_file: "patches/1.5.19-0001-disable-werror.patch"
       patch_description: "disable -Werror for gcc5"
