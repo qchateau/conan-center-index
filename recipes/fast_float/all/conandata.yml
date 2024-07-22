@@ -1,4 +1,7 @@
 sources:
+  "6.1.2":
+    url: "https://github.com/fastfloat/fast_float/archive/v6.1.2.tar.gz"
+    sha256: "6163ae88b48eaaf900933de210b194cd2efd47bb394010bab256a4afef6b8d05"
   "6.1.1":
     url: "https://github.com/fastfloat/fast_float/archive/v6.1.1.tar.gz"
     sha256: "10159a4a58ba95fe9389c3c97fe7de9a543622aa0dcc12dd9356d755e9a94cb4"
