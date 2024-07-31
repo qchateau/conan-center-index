@@ -1,4 +1,7 @@
 sources:
+  "1.37.5474":
+    url: "https://github.com/openhome/ohNet/archive/ohNet_1.37.5474.tar.gz"
+    sha256: "0410c0cd8317ff5f885bf88e704d53b4e849c605752388c22464754e9cedcb10"
   "1.37.5454":
     url: "https://github.com/openhome/ohNet/archive/refs/tags/ohNet_1.37.5454.tar.gz"
     sha256: "343c0f6b015e04195f5e7d937fa5e010a4d5a54782387d1c79259d3bb4ead0f0"
@@ -9,6 +12,13 @@ sources:
     url: "https://github.com/openhome/ohNet/archive/refs/tags/ohNet_1.36.5182.tar.gz"
     sha256: "1489407b9bae13affa8f933a81fb5a43f16b29f5bf8048b68ea645afc0e53ced"
 patches:
+  "1.37.5474":
+    - patch_file: "patches/0001-makefile-1.37.5454.patch"
+      patch_description: "Reduce gcc-centricity in Makefile"
+      patch_type: "conan"
+    - patch_file: "patches/0001-common.mak-1.37.5454.patch"
+      patch_description: "Use proper flags for C++ file"
+      patch_type: "conan"
   "1.37.5454":
     - patch_file: "patches/0001-makefile-1.37.5454.patch"
       patch_description: "Reduce gcc-centricity in Makefile"
