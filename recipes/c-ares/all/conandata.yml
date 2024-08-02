@@ -1,4 +1,7 @@
 sources:
+  "1.33.0":
+    url: "https://github.com/c-ares/c-ares/archive/v1.33.0.tar.gz"
+    sha256: "3ff8f6f74a4f2b9267d06b4ffc1f082918ae8316c7f37c5a52f1a6e7a9694df7"
   "1.32.3":
     url: "https://github.com/c-ares/c-ares/releases/download/v1.32.3/c-ares-1.32.3.tar.gz"
     sha256: "5f02cc809aac3f6cc5edc1fac6c4423fd5616d7406ce47b904c24adf0ff2cd0f"
