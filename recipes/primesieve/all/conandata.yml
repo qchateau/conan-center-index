@@ -1,4 +1,7 @@
 sources:
+  "12.4":
+    url: "https://github.com/kimwalisch/primesieve/archive/v12.4.tar.gz"
+    sha256: "eb7081adebe8030e93b3675c74ac603438d10a36792246b274c79f11d8a987ce"
   "12.1":
     url: "https://github.com/kimwalisch/primesieve/archive/refs/tags/v12.1.tar.gz"
     sha256: "64e7f5d3ce680262b865c7aec1381ffb13d13f75dd985b964ce33806e1bbf386"
