@@ -1,4 +1,7 @@
 sources:
+  "53.0":
+    url: "https://github.com/linux-rdma/rdma-core/archive/v53.0.tar.gz"
+    sha256: "06436548dadb67e8becdb524451444bf4a50d123b1777f98293d79cfc79ec341"
   "52.0":
     url: "https://github.com/linux-rdma/rdma-core/releases/download/v52.0/rdma-core-52.0.tar.gz"
     sha256: "1f0ce5f2462c982b20d21156707076278807a7adf4d10e9142f3be4bec1b2b83"
