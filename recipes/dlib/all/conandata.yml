@@ -1,4 +1,7 @@
 sources:
+  "19.24.6":
+    url: "https://github.com/davisking/dlib/archive/v19.24.6.tar.gz"
+    sha256: "22513c353ec9c153300c394050c96ca9d088e02966ac0f639e989e50318c82d6"
   "19.24.2":
     url: "https://github.com/davisking/dlib/archive/v19.24.2.tar.gz"
     sha256: "0f5c7e3de6316a513635052c5f0a16a84e1cef26a7d233bf00c21348462b6d6f"
