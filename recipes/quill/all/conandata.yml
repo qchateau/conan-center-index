@@ -1,4 +1,7 @@
 sources:
+  "6.1.1":
+    url: "https://github.com/odygrd/quill/archive/v6.1.1.tar.gz"
+    sha256: "91349cbded5fc3926bcb01866c0d526de38c5b8c01a2db0e3c888490038a97a1"
   "6.0.0":
     url: "https://github.com/odygrd/quill/releases/download/v6.0.0/quill-6.0.0.zip"
     sha256: "912de8486ce781d06e3f03c4267d112a0c7f20f93f0470f6ac66a52774c08283"
