@@ -1,4 +1,7 @@
 sources:
+  "1.11.0":
+    url: "https://github.com/maxmind/libmaxminddb/archive/1.11.0.tar.gz"
+    sha256: "dfda7a1367b64b78acd99ac309d6e4bcfea3408678808d3f48bf41728b321909"
   "1.10.0":
     url: "https://github.com/maxmind/libmaxminddb/releases/download/1.10.0/libmaxminddb-1.10.0.tar.gz"
     sha256: "5e6db72df423ae225bfe8897069f6def40faa8931f456b99d79b8b4d664c6671"
