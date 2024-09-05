@@ -1,4 +1,7 @@
 sources:
+  "0.641":
+    url: "https://github.com/Roblox/luau/archive/0.641.tar.gz"
+    sha256: "64fde6b2bf2ad9b17ce600306fa02b381772f191909492da7cc3b81a7e36a765"
   "0.640":
     url: "https://github.com/Roblox/luau/archive/0.640.tar.gz"
     sha256: "63ada3e4c8c17e5aff8964b16951bfd1b567329dd81c11ae1144b6e95f354762"
