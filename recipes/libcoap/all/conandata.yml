@@ -1,4 +1,7 @@
 sources:
+  "4.3.5":
+    url: "https://github.com/obgm/libcoap/archive/v4.3.5.tar.gz"
+    sha256: "a417ed26ec6c95c041b42353b5b6fad1602e2bf42a6e26c09863450e227b7b5f"
   "4.3.3":
     url: "https://github.com/obgm/libcoap/archive/v4.3.3.tar.gz"
     sha256: "3df6e1a51e42ef8fd45f16276505a47ed32aef150d348d60f251a0b470dda379"
