@@ -1,4 +1,7 @@
 sources:
+  "3.4.2":
+    url: "https://github.com/CESNET/libyang/archive/v3.4.2.tar.gz"
+    sha256: "2767902aeffc55c55767f4ecfe5371c422174794edd8aa2b02028d5fe3f8b82c"
   "2.1.148":
     url: "https://github.com/CESNET/libyang/archive/refs/tags/v2.1.148.tar.gz"
     sha256: "77a0aaaeb3df720aeb70d6896e32e2c2be099d48df73e3cfb52567051af3e44b"
