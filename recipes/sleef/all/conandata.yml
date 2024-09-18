@@ -1,4 +1,7 @@
 sources:
+  "3.7":
+    url: "https://github.com/shibatch/sleef/archive/3.7.tar.gz"
+    sha256: "1fb094c1ba4c9f6ba16013715d6fdbd5b893c68e1737b6115ba31e27807de591"
   "3.6":
     url: "https://github.com/shibatch/sleef/archive/3.6.tar.gz"
     sha256: "de4f3d992cf2183a872cd397f517c1defcd3ee6cafa2ce5fa36963bd7e562446"
