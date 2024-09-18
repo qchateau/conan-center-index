@@ -1,4 +1,7 @@
 sources:
+  "1.28.0":
+    url: "https://github.com/mongodb/mongo-c-driver/archive/debian/1.28.0-1.tar.gz"
+    sha256: "fc2ca4eabe6426d9928bedaf7f2f497e09caa9a16dac1646d741625fc6ffbb41"
   "1.27.6":
     url: "https://github.com/mongodb/mongo-c-driver/archive/refs/tags/1.27.6.tar.gz"
     sha256: "7dee166dd106e3074582dd107f62815aa29311520149cda52efb69590b2cae7a"
