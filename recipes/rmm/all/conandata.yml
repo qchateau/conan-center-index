@@ -1,4 +1,7 @@
 sources:
+  "24.12.00":
+    url: "https://github.com/rapidsai/rmm/archive/v24.12.00a.tar.gz"
+    sha256: "093f23ba2dd0c52262de426df7a434e3dae8f23fd02df28e480bbcef272b257f"
   "24.04.00":
     url: "https://github.com/rapidsai/rmm/archive/v24.04.00a.tar.gz"
     sha256: "47a5d28a99165fc6e1f02399e0cc8b304f5bbc9aaf2071288ae92638ecdf516c"
