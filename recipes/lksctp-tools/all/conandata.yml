@@ -1,4 +1,7 @@
 sources:
+  "1.0.21":
+    url: "https://github.com/sctp/lksctp-tools/archive/v1.0.21.tar.gz"
+    sha256: "8738bf17ecffbbe2440a6e2ffaf1cbcebb633fc99d63d88761af35c02a571893"
   "1.0.19":
     url: "https://github.com/sctp/lksctp-tools/archive/refs/tags/v1.0.19.tar.gz"
     sha256: "9251b1368472fb55aaeafe4787131bdde4e96758f6170620bc75b638449cef01"
