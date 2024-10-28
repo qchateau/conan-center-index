@@ -1,4 +1,7 @@
 sources:
+  "0.13.2":
+    url: "https://github.com/e-dant/watcher/archive/release/0.13.2.tar.gz"
+    sha256: "b037b4717a292892d61f619f9a2497ac0a49e8fd73d2c6bf4f9a6bef320718b2"
   "0.12.0":
     url: "https://github.com/e-dant/watcher/archive/release/0.12.0.tar.gz"
     sha256: "9dd4758f4c45ae7925619ceee9e3bd5a0b33577aa5ac2cd857eca14d16749723"
