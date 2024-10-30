@@ -1,4 +1,7 @@
 sources:
+  "3.10.7":
+    url: "https://github.com/ashvardanian/StringZilla/archive/v3.10.7.tar.gz"
+    sha256: "e9f9081d796718763c06a65bb3a5dabe102b757ad0dff18bd7ac8c08217d7e4c"
   "3.10.3":
     url: "https://github.com/ashvardanian/StringZilla/archive/refs/tags/v3.10.3.tar.gz"
     sha256: "8a19b5a8e24f4160dc8d00e77a308a75462c3d211c0879ac218887bb41d26ce6"
